@@ -1,0 +1,15 @@
+batch_size: 64
+emb_dropout: 0.5
+mlp_dropout: 0.5
+eta_min: 0.0001
+epoch: 10
+tag_emb_dim: 100
+hidden_size: 300
+learning_rate: 1
+max_grad_norm: 5
+print_freq: 600
+random_seed: 789
+weight_decay: 0.000005
+word_dim: 300
+output_mlp_size: 1200
+freeze_word_emb: False

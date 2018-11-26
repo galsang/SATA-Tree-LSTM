@@ -1,0 +1,6 @@
+numpy==1.15.4
+nltk==3.2.4
+torch==0.4.1
+tensorboardX==1.4
+PyYAML==3.13
+torchtext==0.3.1

@@ -1,0 +1,17 @@
+batch_size: 64
+emb_dropout: 0.5
+mlp_dropout: 0.5
+eta_min: 1
+epoch: 40
+tag_emb_dim: 50
+hidden_size: 300
+learning_rate: 1
+max_grad_norm: 5
+optimizer: AdadeltaW
+print_freq: 20
+random_seed: 789
+weight_decay: 0.00005
+word_dim: 300
+output_mlp_size: 800
+use_leafLSTM: 1
+freeze_word_emb: False

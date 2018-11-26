@@ -1,0 +1,500 @@
+{"sentence":"How far is it from Denver to Aspen ?","label":"NUM","parse":"(ROOT (WHADVP (WRB How) (RB far)) (@SBARQ (SQ (@SQ (VBZ is) (NP it)) (PP (IN from) (NP (NP Denver) (PP (TO to) (NP Aspen))))) (. ?)))"}
+{"sentence":"What county is Modesto , California in ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN county)) (@SBARQ (SQ (@SQ (VBZ is) (NP (NNP Modesto) (@NP (, ,) (NNP California)))) (PP in)) (. ?)))"}
+{"sentence":"Who was Galileo ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (NP Galileo)) (. ?)))"}
+{"sentence":"What is an atom ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT an) (NN atom))) (. ?)))"}
+{"sentence":"When did Hawaii become a state ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (@SQ (VBD did) (NP Hawaii)) (VP (VB become) (NP (DT a) (NN state)))) (. ?)))"}
+{"sentence":"How tall is the Sears Building ?","label":"NUM","parse":"(ROOT (WHADJP (WRB How) (JJ tall)) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NNP Sears) (NNP Building)))) (. ?)))"}
+{"sentence":"George Bush purchased a small interest in which baseball team ?","label":"HUM","parse":"(ROOT (NP (NNP George) (NNP Bush)) (@S (VP (VBD purchased) (NP (NP (DT a) (@NP (JJ small) (NN interest))) (WHPP (IN in) (WHNP (@WHNP (WDT which) (NN baseball)) (NN team))))) (. ?)))"}
+{"sentence":"What is Australia 's national flower ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (NNP Australia) (POS 's)) (@NP (JJ national) (NN flower)))) (. ?)))"}
+{"sentence":"Why does the moon turn orange ?","label":"DESC","parse":"(ROOT (WHADVP Why) (@SBARQ (SQ (@SQ (VBZ does) (NP (DT the) (NN moon))) (VP (VB turn) (NP orange))) (. ?)))"}
+{"sentence":"What is autism ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP autism)) (. ?)))"}
+{"sentence":"What city had a world fair in 1900 ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN city)) (@SBARQ (SQ (VBD had) (NP (NP (DT a) (@NP (NN world) (NN fair))) (PP (IN in) (NP 1900)))) (. ?)))"}
+{"sentence":"What person 's head is on a dime ?","label":"HUM","parse":"(ROOT (WHNP (WHNP (@WHNP (WDT What) (NN person)) (POS 's)) (NN head)) (@SBARQ (SQ (VBZ is) (PP (IN on) (NP (DT a) (NN dime)))) (. ?)))"}
+{"sentence":"What is the average weight of a Yellow Labrador ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJ average) (NN weight))) (PP (IN of) (NP (DT a) (@NP (JJ Yellow) (NN Labrador)))))) (. ?)))"}
+{"sentence":"Who was the first man to fly across the Pacific Ocean ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (@NP (JJ first) (NN man))) (S (TO to) (VP (VB fly) (PP (IN across) (NP (DT the) (@NP (NNP Pacific) (NNP Ocean)))))))) (. ?)))"}
+{"sentence":"When did Idaho become a state ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (@SQ (VBD did) (NP Idaho)) (VP (VB become) (NP (DT a) (NN state)))) (. ?)))"}
+{"sentence":"What is the life expectancy for crickets ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (NN life) (NN expectancy))) (PP (IN for) (NP crickets)))) (. ?)))"}
+{"sentence":"What metal has the highest melting point ?","label":"ENTY","parse":"(ROOT (WHNP (WDT What) (NN metal)) (@SBARQ (SQ (VBZ has) (NP (DT the) (@NP (JJS highest) (@NP (NN melting) (NN point))))) (. ?)))"}
+{"sentence":"Who developed the vaccination against polio ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (@VP (VBD developed) (NP (DT the) (NN vaccination))) (PP (IN against) (NP polio))) (. ?)))"}
+{"sentence":"What is epilepsy ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP epilepsy)) (. ?)))"}
+{"sentence":"What year did the Titanic sink ?","label":"NUM","parse":"(ROOT (WHNP (WDT What) (NN year)) (@SBARQ (SQ (@SQ (VBD did) (NP (DT the) (NNP Titanic))) (VP sink)) (. ?)))"}
+{"sentence":"Who was the first American to walk in space ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (@NP (JJ first) (NNP American))) (S (TO to) (VP (VB walk) (PP (IN in) (NP space)))))) (. ?)))"}
+{"sentence":"What is a biosphere ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT a) (NN biosphere))) (. ?)))"}
+{"sentence":"What river in the US is known as the Big Muddy ?","label":"LOC","parse":"(ROOT (WHNP (WHNP (WDT What) (NN river)) (PP (IN in) (NP (DT the) (NNP US)))) (@SBARQ (SQ (VBZ is) (VP (VBN known) (PP (IN as) (NP (DT the) (@NP (NNP Big) (NNP Muddy)))))) (. ?)))"}
+{"sentence":"What is bipolar disorder ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NNP bipolar) (NNP disorder))) (. ?)))"}
+{"sentence":"What is cholesterol ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP cholesterol)) (. ?)))"}
+{"sentence":"Who developed the Macintosh computer ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD developed) (NP (DT the) (@NP (NNP Macintosh) (NN computer)))) (. ?)))"}
+{"sentence":"What is caffeine ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP caffeine)) (. ?)))"}
+{"sentence":"What imaginary line is halfway between the North and South Poles ?","label":"LOC","parse":"(ROOT (WHNP (@WHNP (WDT What) (JJ imaginary)) (NN line)) (@SBARQ (SQ (VBZ is) (NP (NP halfway) (PP (IN between) (NP (DT the) (@NP (NNP North) (@NP (CC and) (@NP (NNP South) (NNPS Poles)))))))) (. ?)))"}
+{"sentence":"Where is John Wayne airport ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBZ is) (NP (NNP John) (@NP (NNP Wayne) (NN airport)))) (. ?)))"}
+{"sentence":"What hemisphere is the Philippines in ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN hemisphere)) (@SBARQ (SQ (@SQ (VBZ is) (NP (DT the) (NNPS Philippines))) (PP in)) (. ?)))"}
+{"sentence":"What is the average speed of the horses at the Kentucky Derby ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJ average) (NN speed))) (PP (IN of) (NP (NP (DT the) (NNS horses)) (PP (IN at) (NP (DT the) (@NP (NNP Kentucky) (NNP Derby)))))))) (. ?)))"}
+{"sentence":"Where are the Rocky Mountains ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBP are) (NP (DT the) (@NP (NNP Rocky) (NNPS Mountains)))) (. ?)))"}
+{"sentence":"What are invertebrates ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP invertebrates)) (. ?)))"}
+{"sentence":"What is the temperature at the center of the earth ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN temperature)) (PP (IN at) (NP (NP (DT the) (NN center)) (PP (IN of) (NP (DT the) (NN earth))))))) (. ?)))"}
+{"sentence":"When did John F. Kennedy get elected as President ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (@SQ (VBD did) (NP (NNP John) (@NP (NNP F.) (NNP Kennedy)))) (VP (VB get) (VP (VBN elected) (PP (IN as) (NP President))))) (. ?)))"}
+{"sentence":"How old was Elvis Presley when he died ?","label":"NUM","parse":"(ROOT (WHADJP (WRB How) (JJ old)) (@SBARQ (SQ (@SQ (VBD was) (NP (NNP Elvis) (NNP Presley))) (SBAR (WHADVP when) (S (NP he) (VP died)))) (. ?)))"}
+{"sentence":"Where is the Orinoco River ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NNP Orinoco) (NNP River)))) (. ?)))"}
+{"sentence":"How far is the service line from the net in tennis ?","label":"NUM","parse":"(ROOT (WHADVP (WRB How) (RB far)) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (NN service) (NN line))) (PP (IN from) (NP (NP (DT the) (NN net)) (PP (IN in) (NP tennis)))))) (. ?)))"}
+{"sentence":"How much fiber should you have per day ?","label":"NUM","parse":"(ROOT (WHNP (WHADJP (WRB How) (JJ much)) (NNS fiber)) (@SBARQ (SQ (@SQ (MD should) (NP you)) (VP (VB have) (PP (IN per) (NP day)))) (. ?)))"}
+{"sentence":"How many Great Lakes are there ?","label":"NUM","parse":"(ROOT (WHNP (@WHNP (WHADJP (WRB How) (JJ many)) (ADJP Great)) (NNS Lakes)) (@SBARQ (SQ (VBP are) (NP there)) (. ?)))"}
+{"sentence":"Material called linen is made from what plant ?","label":"ENTY","parse":"(ROOT (NP Material) (@S (VP (VBD called) (SBAR (NP linen) (VP (VBZ is) (VP (VBN made) (PP (IN from) (NP (WDT what) (NN plant))))))) (. ?)))"}
+{"sentence":"What is Teflon ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP Teflon)) (. ?)))"}
+{"sentence":"What is amitriptyline ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP amitriptyline)) (. ?)))"}
+{"sentence":"What is a shaman ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT a) (NN shaman))) (. ?)))"}
+{"sentence":"What is the proper name for a female walrus ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJ proper) (NN name))) (PP (IN for) (NP (DT a) (@NP (JJ female) (NN walrus)))))) (. ?)))"}
+{"sentence":"What is a group of turkeys called ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ is) (NP (NP (DT a) (NN group)) (PP (IN of) (NP turkeys)))) (VP called)) (. ?)))"}
+{"sentence":"How long did Rip Van Winkle sleep ?","label":"NUM","parse":"(ROOT (WHADJP (WRB How) (JJ long)) (@SBARQ (SQ (@SQ (VBD did) (NP (NNP Rip) (@NP (NNP Van) (NNP Winkle)))) (VP sleep)) (. ?)))"}
+{"sentence":"What are triglycerides ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP triglycerides)) (. ?)))"}
+{"sentence":"How many liters in a gallon ?","label":"NUM","parse":"(ROOT (WHNP (WHADJP (WRB How) (JJ many)) (NNS liters)) (@FRAG (PP (IN in) (NP (DT a) (NN gallon))) (. ?)))"}
+{"sentence":"What is the name of the chocolate company in San Francisco ?","label":"HUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN name)) (PP (IN of) (NP (NP (DT the) (@NP (NN chocolate) (NN company))) (PP (IN in) (NP (NNP San) (NNP Francisco))))))) (. ?)))"}
+{"sentence":"What are amphibians ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP amphibians)) (. ?)))"}
+{"sentence":"Who discovered x-rays ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD discovered) (NP x-rays)) (. ?)))"}
+{"sentence":"Which comedian 's signature line is `` Can we talk '' ?","label":"HUM","parse":"(ROOT (WHNP (@WHNP (WHNP (@WHNP (WDT Which) (NN comedian)) (POS 's)) (NN signature)) (NN line)) (@SBARQ (SQ (VBZ is) (SBARQ (`` ``) (@SQ (@SQ (MD Can) (NP we)) (VP (VB talk) ('' ''))))) (. ?)))"}
+{"sentence":"What is fibromyalgia ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP fibromyalgia)) (. ?)))"}
+{"sentence":"What is done with worn or outdated flags ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (VP (VBN done) (PP (IN with) (NP (ADJP (@ADJP (JJ worn) (CC or)) (JJ outdated)) (NNS flags))))) (. ?)))"}
+{"sentence":"What does cc in engines mean ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ does) (NP (NP cc) (PP (IN in) (NP engines)))) (VP mean)) (. ?)))"}
+{"sentence":"When did Elvis Presley die ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (@SQ (VBD did) (NP (NNP Elvis) (NNP Presley))) (VP die)) (. ?)))"}
+{"sentence":"What is the capital of Yugoslavia ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN capital)) (PP (IN of) (NP Yugoslavia)))) (. ?)))"}
+{"sentence":"Where is Milan ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBZ is) (NP Milan)) (. ?)))"}
+{"sentence":"What is the speed hummingbirds fly ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NN speed) (@NP (NN hummingbirds) (NN fly))))) (. ?)))"}
+{"sentence":"What is the oldest city in the United States ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJS oldest) (NN city))) (PP (IN in) (NP (DT the) (@NP (NNP United) (NNPS States)))))) (. ?)))"}
+{"sentence":"What was W.C. Fields ' real name ?","label":"HUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBD was) (NP (NP (NNP W.C.) (@NP (NNP Fields) (POS '))) (@NP (JJ real) (NN name)))) (. ?)))"}
+{"sentence":"What river flows between Fargo , North Dakota and Moorhead , Minnesota ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN river)) (@SBARQ (SQ (VBZ flows) (PP (IN between) (NP (@NP (@NP (@NP (NP Fargo) (, ,)) (NP (NNP North) (NNP Dakota))) (CC and)) (NP (NNP Moorhead) (@NP (, ,) (NNP Minnesota)))))) (. ?)))"}
+{"sentence":"What do bats eat ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBP do) (NP bats)) (VP eat)) (. ?)))"}
+{"sentence":"What state did the Battle of Bighorn take place in ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN state)) (@SBARQ (SQ (@SQ (VBD did) (NP (NP (DT the) (NN Battle)) (PP (IN of) (NP Bighorn)))) (VP (@VP (VB take) (NP place)) (PP in))) (. ?)))"}
+{"sentence":"Who was Abraham Lincoln ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (NP (NNP Abraham) (NNP Lincoln))) (. ?)))"}
+{"sentence":"What do you call a newborn kangaroo ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBP do) (NP you)) (VP (VB call) (NP (DT a) (@NP (JJ newborn) (NN kangaroo))))) (. ?)))"}
+{"sentence":"What are spider veins ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP (NN spider) (NNS veins))) (. ?)))"}
+{"sentence":"What day and month did John Lennon die ?","label":"NUM","parse":"(ROOT (WHNP (WDT What) (NP (@NP (NN day) (CC and)) (NN month))) (@SBARQ (SQ (@SQ (VBD did) (NP (NNP John) (NNP Lennon))) (VP die)) (. ?)))"}
+{"sentence":"What strait separates North America from Asia ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN strait)) (@SBARQ (SQ (VBZ separates) (NP (NP (NNP North) (NNP America)) (PP (IN from) (NP Asia)))) (. ?)))"}
+{"sentence":"What is the population of Seattle ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN population)) (PP (IN of) (NP Seattle)))) (. ?)))"}
+{"sentence":"How much was a ticket for the Titanic ?","label":"NUM","parse":"(ROOT (WHADJP (WRB How) (JJ much)) (@SBARQ (SQ (VBD was) (NP (NP (DT a) (NN ticket)) (PP (IN for) (NP (DT the) (NNP Titanic))))) (. ?)))"}
+{"sentence":"What is the largest city in the world ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJS largest) (NN city))) (PP (IN in) (NP (DT the) (NN world))))) (. ?)))"}
+{"sentence":"What American composer wrote the music for `` West Side Story '' ?","label":"HUM","parse":"(ROOT (WHNP (@WHNP (WDT What) (JJ American)) (NN composer)) (@SBARQ (SQ (@VP (VBD wrote) (NP (DT the) (NN music))) (PP (@PP (@PP (IN for) (`` ``)) (NP (NNP West) (@NP (NNP Side) (NNP Story)))) ('' ''))) (. ?)))"}
+{"sentence":"Where is the Mall of the America ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN Mall)) (PP (IN of) (NP (DT the) (NNP America))))) (. ?)))"}
+{"sentence":"What is the pH scale ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NN pH) (NN scale)))) (. ?)))"}
+{"sentence":"What type of currency is used in Australia ?","label":"ENTY","parse":"(ROOT (WHNP (WHNP (WDT What) (NN type)) (PP (IN of) (NP currency))) (@SBARQ (SQ (VBZ is) (VP (VBN used) (PP (IN in) (NP Australia)))) (. ?)))"}
+{"sentence":"How tall is the Gateway Arch in St. Louis , MO ?","label":"NUM","parse":"(ROOT (WHADJP (WRB How) (JJ tall)) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (NNP Gateway) (NNP Arch))) (PP (IN in) (NP (@NP (NP (NNP St.) (NNP Louis)) (, ,)) (NP MO))))) (. ?)))"}
+{"sentence":"How much does the human adult female brain weigh ?","label":"NUM","parse":"(ROOT (WHADJP (WRB How) (JJ much)) (@SBARQ (SQ (@SQ (VBZ does) (NP (DT the) (@NP (JJ human) (@NP (JJ adult) (@NP (JJ female) (NN brain)))))) (VP weigh)) (. ?)))"}
+{"sentence":"Who was the first governor of Alaska ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (@NP (JJ first) (NN governor))) (PP (IN of) (NP Alaska)))) (. ?)))"}
+{"sentence":"What is a prism ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT a) (NN prism))) (. ?)))"}
+{"sentence":"When was the first liver transplant ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (VBD was) (NP (DT the) (@NP (JJ first) (@NP (NN liver) (NN transplant))))) (. ?)))"}
+{"sentence":"Who was elected president of South Africa in 1994 ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (VP (VBN elected) (NP (NP president) (PP (IN of) (NP (NP (NNP South) (NNP Africa)) (PP (IN in) (NP 1994))))))) (. ?)))"}
+{"sentence":"What is the population of China ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN population)) (PP (IN of) (NP China)))) (. ?)))"}
+{"sentence":"When was Rosa Parks born ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (@SQ (VBD was) (NP (NNP Rosa) (NNP Parks))) (VP born)) (. ?)))"}
+{"sentence":"Why is a ladybug helpful ?","label":"DESC","parse":"(ROOT (WHADVP Why) (@SBARQ (SQ (@SQ (VBZ is) (NP (DT a) (NN ladybug))) (ADJP helpful)) (. ?)))"}
+{"sentence":"What is amoxicillin ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP amoxicillin)) (. ?)))"}
+{"sentence":"Who was the first female United States Representative ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (NP (DT the) (@NP (JJ first) (@NP (JJ female) (@NP (NNP United) (@NP (NNPS States) (NNP Representative))))))) (. ?)))"}
+{"sentence":"What are xerophytes ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP xerophytes)) (. ?)))"}
+{"sentence":"What country did Ponce de Leon come from ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN country)) (@SBARQ (SQ (@SQ (VBD did) (NP (NNP Ponce) (@NP (NNP de) (NNP Leon)))) (VP (VB come) (PP from))) (. ?)))"}
+{"sentence":"The U.S. Department of Treasury first issued paper currency for the U.S. during which war ?","label":"ENTY","parse":"(ROOT (NP (NP (DT The) (@NP (NNP U.S.) (NNP Department))) (PP (IN of) (NP Treasury))) (@S (VP (ADVP first) (@VP (@VP (VBD issued) (NP (NP (NN paper) (NN currency)) (PP (IN for) (NP (DT the) (NNP U.S.))))) (WHPP (IN during) (WHNP (WDT which) (NN war))))) (. ?)))"}
+{"sentence":"What is desktop publishing ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (JJ desktop) (NN publishing))) (. ?)))"}
+{"sentence":"What is the temperature of the sun 's surface ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN temperature)) (PP (IN of) (NP (NP (DT the) (@NP (NN sun) (POS 's))) (NN surface))))) (. ?)))"}
+{"sentence":"What year did Canada join the United Nations ?","label":"NUM","parse":"(ROOT (WHNP (WDT What) (NN year)) (@SBARQ (SQ (@SQ (VBD did) (NP Canada)) (VP (VB join) (NP (DT the) (@NP (NNP United) (NNPS Nations))))) (. ?)))"}
+{"sentence":"What is the oldest university in the US ?","label":"HUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJS oldest) (NN university))) (PP (IN in) (NP (DT the) (NNP US))))) (. ?)))"}
+{"sentence":"Where is Prince Edward Island ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBZ is) (NP (NNP Prince) (@NP (NNP Edward) (NNP Island)))) (. ?)))"}
+{"sentence":"Mercury , what year was it discovered ?","label":"NUM","parse":"(ROOT (NP Mercury) (@SBARQ (, ,) (@SBARQ (WHNP (WDT what) (NN year)) (@SBARQ (SQ (@SQ (VBD was) (NP it)) (VP discovered)) (. ?)))))"}
+{"sentence":"What is cryogenics ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP cryogenics)) (. ?)))"}
+{"sentence":"What are coral reefs ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP (NN coral) (NNS reefs))) (. ?)))"}
+{"sentence":"What is the longest major league baseball-winning streak ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (JJS longest) (@NP (JJ major) (@NP (NN league) (@NP (VBG baseball-winning) (NN streak))))))) (. ?)))"}
+{"sentence":"What is neurology ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP neurology)) (. ?)))"}
+{"sentence":"Who invented the calculator ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD invented) (NP (DT the) (NN calculator))) (. ?)))"}
+{"sentence":"How do you measure earthquakes ?","label":"DESC","parse":"(ROOT (WHADVP How) (@SBARQ (SQ (@SQ (VBP do) (NP you)) (VP (VB measure) (NP earthquakes))) (. ?)))"}
+{"sentence":"Who is Duke Ellington ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBZ is) (NP (NNP Duke) (NNP Ellington))) (. ?)))"}
+{"sentence":"What county is Phoenix , AZ in ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN county)) (@SBARQ (SQ (@SQ (VBZ is) (NP (NNP Phoenix) (@NP (, ,) (NNP AZ)))) (PP in)) (. ?)))"}
+{"sentence":"What is a micron ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT a) (NN micron))) (. ?)))"}
+{"sentence":"The sun 's core , what is the temperature ?","label":"NUM","parse":"(ROOT (NP (NP (DT The) (@NP (NN sun) (POS 's))) (NN core)) (@SBARQ (, ,) (@SBARQ (WHNP what) (@SBARQ (SQ (VBZ is) (NP (DT the) (NN temperature))) (. ?)))))"}
+{"sentence":"What is the Ohio state bird ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NNP Ohio) (@NP (NN state) (NN bird))))) (. ?)))"}
+{"sentence":"When were William Shakespeare 's twins born ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (@SQ (VBD were) (NP (NP (NNP William) (@NP (NNP Shakespeare) (POS 's))) (NNS twins))) (VP born)) (. ?)))"}
+{"sentence":"What is the highest dam in the U.S. ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJS highest) (NN dam))) (PP (IN in) (NP (DT the) (NNP U.S.))))) (. ?)))"}
+{"sentence":"What color is a poison arrow frog ?","label":"ENTY","parse":"(ROOT (WHNP (WDT What) (NN color)) (@SBARQ (SQ (VBZ is) (NP (DT a) (@NP (NN poison) (@NP (NN arrow) (NN frog))))) (. ?)))"}
+{"sentence":"What is acupuncture ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP acupuncture)) (. ?)))"}
+{"sentence":"What is the length of the coastline of the state of Alaska ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN length)) (PP (IN of) (NP (NP (DT the) (NN coastline)) (PP (IN of) (NP (NP (DT the) (NN state)) (PP (IN of) (NP Alaska)))))))) (. ?)))"}
+{"sentence":"What is the name of Neil Armstrong 's wife ?","label":"HUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN name)) (PP (IN of) (NP (NP (NNP Neil) (@NP (NNP Armstrong) (POS 's))) (NN wife))))) (. ?)))"}
+{"sentence":"What is Hawaii 's state flower ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (NNP Hawaii) (POS 's)) (@NP (NN state) (NN flower)))) (. ?)))"}
+{"sentence":"Who won Ms. American in 1989 ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD won) (NP (NP (NNP Ms.) (NNP American)) (PP (IN in) (NP 1989)))) (. ?)))"}
+{"sentence":"When did the Hindenberg crash ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (@SQ (VBD did) (NP (DT the) (NNP Hindenberg))) (VP crash)) (. ?)))"}
+{"sentence":"What mineral helps prevent osteoporosis ?","label":"ENTY","parse":"(ROOT (WHNP (WDT What) (NN mineral)) (@SBARQ (SQ (VBZ helps) (S (VB prevent) (NP osteoporosis))) (. ?)))"}
+{"sentence":"What was the last year that the Chicago Cubs won the World Series ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBD was) (NP (DT the) (@NP (JJ last) (NN year)))) (SBAR (IN that) (S (NP (DT the) (@NP (NNP Chicago) (NNP Cubs))) (VP (VBD won) (NP (DT the) (@NP (NNP World) (NNP Series))))))) (. ?)))"}
+{"sentence":"Where is Perth ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBZ is) (NP Perth)) (. ?)))"}
+{"sentence":"What year did WWII begin ?","label":"NUM","parse":"(ROOT (WHNP (WDT What) (NN year)) (@SBARQ (SQ (@SQ (VBD did) (NP WWII)) (VP begin)) (. ?)))"}
+{"sentence":"What is the diameter of a golf ball ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN diameter)) (PP (IN of) (NP (DT a) (@NP (NN golf) (NN ball)))))) (. ?)))"}
+{"sentence":"What is an eclipse ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT an) (NN eclipse))) (. ?)))"}
+{"sentence":"Who discovered America ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD discovered) (NP America)) (. ?)))"}
+{"sentence":"What is the earth 's diameter ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (NN earth) (POS 's))) (NN diameter))) (. ?)))"}
+{"sentence":"Which president was unmarried ?","label":"HUM","parse":"(ROOT (WHNP (WDT Which) (NN president)) (@SBARQ (SQ (VBD was) (ADJP unmarried)) (. ?)))"}
+{"sentence":"How wide is the Milky Way galaxy ?","label":"NUM","parse":"(ROOT (WHADJP (WRB How) (JJ wide)) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NNP Milky) (@NP (NNP Way) (NN galaxy))))) (. ?)))"}
+{"sentence":"During which season do most thunderstorms occur ?","label":"NUM","parse":"(ROOT (WHPP (IN During) (WHNP (WDT which) (NN season))) (@SBARQ (SQ (@SQ (VBP do) (NP (JJS most) (NNS thunderstorms))) (VP occur)) (. ?)))"}
+{"sentence":"What is Wimbledon ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP Wimbledon)) (. ?)))"}
+{"sentence":"What is the gestation period for a cat ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJ gestation) (NN period))) (PP (IN for) (NP (DT a) (NN cat))))) (. ?)))"}
+{"sentence":"How far is a nautical mile ?","label":"NUM","parse":"(ROOT (WHADVP (WRB How) (RB far)) (@SBARQ (SQ (VBZ is) (NP (DT a) (@NP (JJ nautical) (NN mile)))) (. ?)))"}
+{"sentence":"Who was the abolitionist who led the raid on Harper 's Ferry in 1859 ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (NN abolitionist)) (SBAR (WHNP who) (S (@VP (@VP (VBD led) (NP (DT the) (NN raid))) (PP (IN on) (NP (NP (NNP Harper) (POS 's)) (NN Ferry)))) (PP (IN in) (NP 1859)))))) (. ?)))"}
+{"sentence":"What does target heart rate mean ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ does) (NP (NP (NN target) (NN heart)) (NN rate))) (VP mean)) (. ?)))"}
+{"sentence":"What was the first satellite to go into space ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (@NP (JJ first) (NN satellite))) (S (TO to) (VP (VB go) (PP (IN into) (NP space)))))) (. ?)))"}
+{"sentence":"What is foreclosure ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP foreclosure)) (. ?)))"}
+{"sentence":"What is the major fault line near Kentucky ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJ major) (@NP (NN fault) (NN line)))) (PP (IN near) (NP Kentucky)))) (. ?)))"}
+{"sentence":"Where is the Holland Tunnel ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NNP Holland) (NN Tunnel)))) (. ?)))"}
+{"sentence":"Who wrote the hymn `` Amazing Grace '' ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD wrote) (S (@S (@S (NP (DT the) (NN hymn)) (`` ``)) (NP (NNP Amazing) (NNP Grace))) ('' ''))) (. ?)))"}
+{"sentence":"What position did Willie Davis play in baseball ?","label":"HUM","parse":"(ROOT (WHNP (WDT What) (NN position)) (@SBARQ (SQ (@SQ (VBD did) (NP (NNP Willie) (NNP Davis))) (VP (VB play) (PP (IN in) (NP baseball)))) (. ?)))"}
+{"sentence":"What are platelets ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP platelets)) (. ?)))"}
+{"sentence":"What is severance pay ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NN severance) (NN pay))) (. ?)))"}
+{"sentence":"What is the name of Roy Roger 's dog ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN name)) (PP (IN of) (NP (NP (NNP Roy) (@NP (NNP Roger) (POS 's))) (NN dog))))) (. ?)))"}
+{"sentence":"Where are the National Archives ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBP are) (NP (DT the) (@NP (NNP National) (NNPS Archives)))) (. ?)))"}
+{"sentence":"What is a baby turkey called ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ is) (NP (DT a) (@NP (NN baby) (NN turkey)))) (VP called)) (. ?)))"}
+{"sentence":"What is poliomyelitis ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP poliomyelitis)) (. ?)))"}
+{"sentence":"What is the longest bone in the human body ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJS longest) (NN bone))) (PP (IN in) (NP (DT the) (@NP (JJ human) (NN body)))))) (. ?)))"}
+{"sentence":"Who is a German philosopher ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBZ is) (NP (DT a) (@NP (JJ German) (NN philosopher)))) (. ?)))"}
+{"sentence":"What were Christopher Columbus ' three ships ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBD were) (NP (NP (NNP Christopher) (@NP (NNP Columbus) (POS '))) (@NP (CD three) (NNS ships)))) (. ?)))"}
+{"sentence":"What does Phi Beta Kappa mean ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ does) (NP (NNP Phi) (@NP (NNP Beta) (NNP Kappa)))) (VP mean)) (. ?)))"}
+{"sentence":"What is nicotine ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP nicotine)) (. ?)))"}
+{"sentence":"What is another name for vitamin B1 ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT another) (NN name)) (PP (IN for) (NP (NN vitamin) (NN B1))))) (. ?)))"}
+{"sentence":"Who discovered radium ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD discovered) (NP radium)) (. ?)))"}
+{"sentence":"What are sunspots ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP sunspots)) (. ?)))"}
+{"sentence":"When was Algeria colonized ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (@SQ (VBD was) (NP Algeria)) (VP colonized)) (. ?)))"}
+{"sentence":"What baseball team was the first to make numbers part of their uniform ?","label":"HUM","parse":"(ROOT (WHNP (@WHNP (WDT What) (NN baseball)) (NN team)) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (@NP (ADJP (JJ first) (S (TO to) (VP (VB make) (NP numbers)))) (NN part))) (PP (IN of) (NP (PRP$ their) (NN uniform))))) (. ?)))"}
+{"sentence":"What continent is Egypt on ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN continent)) (@SBARQ (SQ (@SQ (VBZ is) (NP Egypt)) (PP on)) (. ?)))"}
+{"sentence":"What is the capital of Mongolia ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN capital)) (PP (IN of) (NP Mongolia)))) (. ?)))"}
+{"sentence":"What is nanotechnology ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP nanotechnology)) (. ?)))"}
+{"sentence":"In the late 1700 's British convicts were used to populate which colony ?","label":"LOC","parse":"(ROOT (PP (IN In) (NP (DT the) (JJ late))) (@S (NP (NP (NNP 1700) (POS 's)) (@NP (JJ British) (NNS convicts))) (@S (VP (VBD were) (VP (VBN used) (S (TO to) (VP (VB populate) (WHNP (WDT which) (NN colony)))))) (. ?))))"}
+{"sentence":"What state is the geographic center of the lower 48 states ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN state)) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJ geographic) (NN center))) (PP (IN of) (NP (DT the) (@NP (JJR lower) (@NP (CD 48) (NNS states))))))) (. ?)))"}
+{"sentence":"What is an obtuse angle ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT an) (@NP (JJ obtuse) (NN angle)))) (. ?)))"}
+{"sentence":"What are polymers ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP polymers)) (. ?)))"}
+{"sentence":"When is hurricane season in the Caribbean ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (VBZ is) (NP (NP (NN hurricane) (NN season)) (PP (IN in) (NP (DT the) (NNP Caribbean))))) (. ?)))"}
+{"sentence":"Where is the volcano Mauna Loa ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NN volcano) (@NP (NNP Mauna) (NNP Loa))))) (. ?)))"}
+{"sentence":"What is another astronomic term for the Northern Lights ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT another) (@NP (JJ astronomic) (NN term))) (PP (IN for) (NP (DT the) (@NP (JJ Northern) (NNS Lights)))))) (. ?)))"}
+{"sentence":"What peninsula is Spain part of ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN peninsula)) (@SBARQ (SQ (VBZ is) (NP (NP (NNP Spain) (NN part)) (PP of))) (. ?)))"}
+{"sentence":"When was Lyndon B. Johnson born ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (@SQ (VBD was) (NP (NNP Lyndon) (@NP (NNP B.) (NNP Johnson)))) (VP born)) (. ?)))"}
+{"sentence":"What is acetaminophen ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP acetaminophen)) (. ?)))"}
+{"sentence":"What state has the least amount of rain per year ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN state)) (@SBARQ (SQ (VBZ has) (NP (NP (DT the) (@NP (JJS least) (NN amount))) (PP (IN of) (NP (NP rain) (PP (IN per) (NP year)))))) (. ?)))"}
+{"sentence":"Who founded American Red Cross ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD founded) (NP (JJ American) (NX (NNP Red) (NNP Cross)))) (. ?)))"}
+{"sentence":"What year did the Milwaukee Braves become the Atlanta Braves ?","label":"NUM","parse":"(ROOT (WHNP (WDT What) (NN year)) (@SBARQ (SQ (@SQ (VBD did) (NP (DT the) (@NP (NNP Milwaukee) (NNPS Braves)))) (VP (VB become) (NP (DT the) (@NP (NNP Atlanta) (NNPS Braves))))) (. ?)))"}
+{"sentence":"How fast is alcohol absorbed ?","label":"NUM","parse":"(ROOT (WHADJP (WRB How) (JJ fast)) (@SBARQ (SQ (@SQ (VBZ is) (NP alcohol)) (VP absorbed)) (. ?)))"}
+{"sentence":"When is the summer solstice ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NN summer) (NN solstice)))) (. ?)))"}
+{"sentence":"What is supernova ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP supernova)) (. ?)))"}
+{"sentence":"Where is the Shawnee National Forest ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NNP Shawnee) (@NP (NNP National) (NNP Forest))))) (. ?)))"}
+{"sentence":"What U.S. state 's motto is `` Live free or Die '' ?","label":"LOC","parse":"(ROOT (WHNP (WHNP (@WHNP (@WHNP (WDT What) (NNP U.S.)) (NN state)) (POS 's)) (NN motto)) (@SBARQ (SQ (@SQ (@SQ (VBZ is) (`` ``)) (NP (NP Live) (VP (@VP (VB free) (CC or)) (VB Die)))) ('' '')) (. ?)))"}
+{"sentence":"Where is the Lourve ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBZ is) (NP (DT the) (NNP Lourve))) (. ?)))"}
+{"sentence":"When was the first stamp issued ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (@SQ (VBD was) (NP (DT the) (@NP (JJ first) (NN stamp)))) (VP issued)) (. ?)))"}
+{"sentence":"What primary colors do you mix to make orange ?","label":"ENTY","parse":"(ROOT (WHNP (@WHNP (WDT What) (JJ primary)) (NNS colors)) (@SBARQ (SQ (@SQ (VBP do) (NP you)) (VP (VB mix) (S (TO to) (VP (VB make) (NP orange))))) (. ?)))"}
+{"sentence":"How far is Pluto from the sun ?","label":"NUM","parse":"(ROOT (WHADVP (WRB How) (RB far)) (@SBARQ (SQ (VBZ is) (NP (NP Pluto) (PP (IN from) (NP (DT the) (NN sun))))) (. ?)))"}
+{"sentence":"What body of water are the Canary Islands in ?","label":"LOC","parse":"(ROOT (WHNP (WHNP (WDT What) (NN body)) (PP (IN of) (NP water))) (@SBARQ (SQ (@SQ (VBP are) (NP (DT the) (@NP (NNP Canary) (NNPS Islands)))) (PP in)) (. ?)))"}
+{"sentence":"What is neuropathy ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP neuropathy)) (. ?)))"}
+{"sentence":"Where is the Euphrates River ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NNP Euphrates) (NNP River)))) (. ?)))"}
+{"sentence":"What is cryptography ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP cryptography)) (. ?)))"}
+{"sentence":"What is natural gas composed of ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ is) (NP (JJ natural) (NN gas))) (VP (VBN composed) (PP of))) (. ?)))"}
+{"sentence":"Who is the Prime Minister of Canada ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (NNP Prime) (NNP Minister))) (PP (IN of) (NP Canada)))) (. ?)))"}
+{"sentence":"What French ruler was defeated at the battle of Waterloo ?","label":"HUM","parse":"(ROOT (WHNP (@WHNP (WDT What) (JJ French)) (NN ruler)) (@SBARQ (SQ (VBD was) (VP (VBN defeated) (PP (IN at) (NP (NP (DT the) (NN battle)) (PP (IN of) (NP Waterloo)))))) (. ?)))"}
+{"sentence":"What is leukemia ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP leukemia)) (. ?)))"}
+{"sentence":"Where did Howard Hughes die ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (@SQ (VBD did) (NP (NNP Howard) (NNP Hughes))) (VP die)) (. ?)))"}
+{"sentence":"What is the birthstone for June ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN birthstone)) (PP (IN for) (NP June)))) (. ?)))"}
+{"sentence":"What is the sales tax in Minnesota ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (NNS sales) (NN tax))) (PP (IN in) (NP Minnesota)))) (. ?)))"}
+{"sentence":"What is the distance in miles from the earth to the sun ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN distance)) (PP (IN in) (NP (NP miles) (PP (IN from) (NP (NP (DT the) (NN earth)) (PP (TO to) (NP (DT the) (NN sun))))))))) (. ?)))"}
+{"sentence":"What is the average life span for a chicken ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJ average) (@NP (NN life) (NN span)))) (PP (IN for) (NP (DT a) (NN chicken))))) (. ?)))"}
+{"sentence":"When was the first Wal-Mart store opened ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (@SQ (VBD was) (NP (DT the) (@NP (JJ first) (@NP (NNP Wal-Mart) (NN store))))) (VP opened)) (. ?)))"}
+{"sentence":"What is relative humidity ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (JJ relative) (NN humidity))) (. ?)))"}
+{"sentence":"What city has the zip code of 35824 ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN city)) (@SBARQ (SQ (VBZ has) (NP (NP (DT the) (@NP (NN zip) (NN code))) (PP (IN of) (NP 35824)))) (. ?)))"}
+{"sentence":"What currency is used in Algeria ?","label":"ENTY","parse":"(ROOT (WHNP (WDT What) (NN currency)) (@SBARQ (SQ (VBZ is) (VP (VBN used) (PP (IN in) (NP Algeria)))) (. ?)))"}
+{"sentence":"Who invented the hula hoop ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD invented) (NP (DT the) (@NP (JJ hula) (NN hoop)))) (. ?)))"}
+{"sentence":"What was the most popular toy in 1957 ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (@NP (ADJP (RBS most) (JJ popular)) (NN toy))) (PP (IN in) (NP 1957)))) (. ?)))"}
+{"sentence":"What is pastrami made of ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ is) (NP pastrami)) (VP (VBN made) (PP of))) (. ?)))"}
+{"sentence":"What is the name of the satellite that the Soviet Union sent into space in 1957 ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN name)) (PP (IN of) (NP (NP (DT the) (NN satellite)) (SBAR (IN that) (S (NP (DT the) (@NP (NNP Soviet) (NNP Union))) (VP (@VP (VBD sent) (PP (IN into) (NP space))) (PP (IN in) (NP 1957))))))))) (. ?)))"}
+{"sentence":"What city 's newspaper is called `` The Enquirer '' ?","label":"LOC","parse":"(ROOT (WHNP (WHNP (@WHNP (WDT What) (NN city)) (POS 's)) (NN newspaper)) (@SBARQ (SQ (VBZ is) (VP (VBN called) (S (`` ``) (@S (NP (DT The) (NNP Enquirer)) ('' ''))))) (. ?)))"}
+{"sentence":"Who invented the slinky ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD invented) (NP (DT the) (NN slinky))) (. ?)))"}
+{"sentence":"What are the animals that don 't have backbones called ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBP are) (NP (DT the) (NNS animals))) (SBAR (IN that) (S (NP (NP (NNP don) (POS ')) (NN t)) (VP (@VP (VBP have) (ADVP backbones)) (VP called))))) (. ?)))"}
+{"sentence":"What is the melting point of copper ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJ melting) (NN point))) (PP (IN of) (NP copper)))) (. ?)))"}
+{"sentence":"Where is the volcano Olympus Mons located ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (@SQ (VBZ is) (NP (DT the) (@NP (NN volcano) (@NP (NNP Olympus) (NNP Mons))))) (VP located)) (. ?)))"}
+{"sentence":"Who was the 23rd president of the United States ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (@NP (JJ 23rd) (NN president))) (PP (IN of) (NP (DT the) (@NP (NNP United) (NNPS States)))))) (. ?)))"}
+{"sentence":"What is the average body temperature ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (JJ average) (@NP (NN body) (NN temperature))))) (. ?)))"}
+{"sentence":"What does a defibrillator do ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ does) (NP (DT a) (NN defibrillator))) (VP do)) (. ?)))"}
+{"sentence":"What is the effect of acid rain ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (JJ acid) (NN rain))))) (. ?)))"}
+{"sentence":"What year did the United States abolish the draft ?","label":"NUM","parse":"(ROOT (WHNP (WDT What) (NN year)) (@SBARQ (SQ (@SQ (VBD did) (NP (DT the) (@NP (NNP United) (NNPS States)))) (VP (VB abolish) (NP (DT the) (NN draft)))) (. ?)))"}
+{"sentence":"How fast is the speed of light ?","label":"NUM","parse":"(ROOT (WHADJP (WRB How) (JJ fast)) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN speed)) (PP (IN of) (NP light)))) (. ?)))"}
+{"sentence":"What province is Montreal in ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN province)) (@SBARQ (SQ (@SQ (VBZ is) (NP Montreal)) (PP in)) (. ?)))"}
+{"sentence":"What New York City structure is also known as the Twin Towers ?","label":"LOC","parse":"(ROOT (WHNP (@WHNP (@WHNP (@WHNP (WDT What) (NNP New)) (NNP York)) (NNP City)) (NN structure)) (@SBARQ (SQ (@SQ (VBZ is) (ADVP also)) (VP (VBN known) (PP (IN as) (NP (DT the) (@NP (NNP Twin) (NNP Towers)))))) (. ?)))"}
+{"sentence":"What is fungus ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP fungus)) (. ?)))"}
+{"sentence":"What is the most frequently spoken language in the Netherlands ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (ADJP (ADVP (RBS most) (RB frequently)) (VBN spoken)) (NN language))) (PP (IN in) (NP (DT the) (NNPS Netherlands))))) (. ?)))"}
+{"sentence":"What is sodium chloride ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NN sodium) (NN chloride))) (. ?)))"}
+{"sentence":"What are the spots on dominoes called ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBP are) (NP (NP (DT the) (NNS spots)) (PP (IN on) (NP dominoes)))) (VP called)) (. ?)))"}
+{"sentence":"How many pounds in a ton ?","label":"NUM","parse":"(ROOT (WHNP (WHADJP (WRB How) (JJ many)) (NNS pounds)) (@FRAG (PP (IN in) (NP (DT a) (NN ton))) (. ?)))"}
+{"sentence":"What is influenza ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP influenza)) (. ?)))"}
+{"sentence":"What is ozone depletion ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NN ozone) (NN depletion))) (. ?)))"}
+{"sentence":"What year was the Mona Lisa painted ?","label":"NUM","parse":"(ROOT (WHNP (WDT What) (NN year)) (@SBARQ (SQ (@SQ (VBD was) (NP (DT the) (@NP (NNP Mona) (NNP Lisa)))) (VP painted)) (. ?)))"}
+{"sentence":"What does `` Sitting Shiva '' mean ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (@SQ (@SQ (VBZ does) (`` ``)) (NP (VBG Sitting) (NN Shiva))) ('' '')) (VP mean)) (. ?)))"}
+{"sentence":"What is the electrical output in Madrid , Spain ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJ electrical) (NN output))) (PP (IN in) (NP (NNP Madrid) (@NP (, ,) (NNP Spain)))))) (. ?)))"}
+{"sentence":"Which mountain range in North America stretches from Maine to Georgia ?","label":"LOC","parse":"(ROOT (WHNP (WHNP (@WHNP (WDT Which) (NN mountain)) (NN range)) (PP (IN in) (NP (NNP North) (NNP America)))) (@SBARQ (SQ (@VP (VBZ stretches) (PP (IN from) (NP Maine))) (PP (TO to) (NP Georgia))) (. ?)))"}
+{"sentence":"What is plastic made of ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ is) (NP plastic)) (VP (VBN made) (PP of))) (. ?)))"}
+{"sentence":"What is the population of Nigeria ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN population)) (PP (IN of) (NP Nigeria)))) (. ?)))"}
+{"sentence":"What does your spleen do ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ does) (NP (PRP$ your) (NN spleen))) (VP do)) (. ?)))"}
+{"sentence":"Where is the Grand Canyon ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NNP Grand) (NNP Canyon)))) (. ?)))"}
+{"sentence":"Who invented the telephone ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD invented) (NP (DT the) (NN telephone))) (. ?)))"}
+{"sentence":"What year did the U.S. buy Alaska ?","label":"NUM","parse":"(ROOT (WHNP (WDT What) (NN year)) (@SBARQ (SQ (@SQ (VBD did) (NP (DT the) (NNP U.S.))) (VP (VB buy) (NP Alaska))) (. ?)))"}
+{"sentence":"What is the name of the leader of Ireland ?","label":"HUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN name)) (PP (IN of) (NP (NP (DT the) (NN leader)) (PP (IN of) (NP Ireland)))))) (. ?)))"}
+{"sentence":"What is phenylalanine ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP phenylalanine)) (. ?)))"}
+{"sentence":"How many gallons of water are there in a cubic foot ?","label":"NUM","parse":"(ROOT (WHNP (WHNP (WHADJP (WRB How) (JJ many)) (NNS gallons)) (PP (IN of) (NP water))) (@SBARQ (SQ (@SQ (VBP are) (NP there)) (PP (IN in) (NP (DT a) (@NP (JJ cubic) (NN foot))))) (. ?)))"}
+{"sentence":"What are the two houses of the Legislative branch ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP (NP (DT the) (@NP (CD two) (NNS houses))) (PP (IN of) (NP (DT the) (@NP (JJ Legislative) (NN branch)))))) (. ?)))"}
+{"sentence":"What is sonar ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP sonar)) (. ?)))"}
+{"sentence":"In Poland , where do most people live ?","label":"LOC","parse":"(ROOT (PP (IN In) (NP Poland)) (@SBARQ (, ,) (@SBARQ (WHADVP where) (@SBARQ (SQ (@SQ (VBP do) (NP (JJS most) (NNS people))) (VP live)) (. ?)))))"}
+{"sentence":"What is phosphorus ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP phosphorus)) (. ?)))"}
+{"sentence":"What is the location of the Sea of Tranquility ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN location)) (PP (IN of) (NP (NP (DT the) (NN Sea)) (PP (IN of) (NP Tranquility)))))) (. ?)))"}
+{"sentence":"How fast is sound ?","label":"NUM","parse":"(ROOT (WHADJP (WRB How) (JJ fast)) (@SBARQ (SQ (VBZ is) (NP sound)) (. ?)))"}
+{"sentence":"What French province is cognac produced in ?","label":"LOC","parse":"(ROOT (WHNP (@WHNP (WDT What) (JJ French)) (NN province)) (@SBARQ (SQ (@SQ (VBZ is) (NP cognac)) (VP (VBN produced) (PP in))) (. ?)))"}
+{"sentence":"What is Valentine 's Day ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (NNP Valentine) (POS 's)) (NN Day))) (. ?)))"}
+{"sentence":"What causes gray hair ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ causes) (NP (JJ gray) (NN hair))) (. ?)))"}
+{"sentence":"What is hypertension ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP hypertension)) (. ?)))"}
+{"sentence":"What is bandwidth ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP bandwidth)) (. ?)))"}
+{"sentence":"What is the longest suspension bridge in the U.S. ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJS longest) (@NP (NN suspension) (NN bridge)))) (PP (IN in) (NP (DT the) (NNP U.S.))))) (. ?)))"}
+{"sentence":"What is a parasite ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT a) (NN parasite))) (. ?)))"}
+{"sentence":"What is home equity ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NN home) (NN equity))) (. ?)))"}
+{"sentence":"What do meteorologists do ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBP do) (NP meteorologists)) (VP do)) (. ?)))"}
+{"sentence":"What is the criterion for being legally blind ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN criterion)) (PP (IN for) (S (VBG being) (ADJP (RB legally) (JJ blind)))))) (. ?)))"}
+{"sentence":"Who is the tallest man in the world ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJS tallest) (NN man))) (PP (IN in) (NP (DT the) (NN world))))) (. ?)))"}
+{"sentence":"What are the twin cities ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP (DT the) (@NP (JJ twin) (NNS cities)))) (. ?)))"}
+{"sentence":"What did Edward Binney and Howard Smith invent in 1903 ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBD did) (NP (@NP (NP (NNP Edward) (NNP Binney)) (CC and)) (NP (NNP Howard) (NNP Smith)))) (VP (VB invent) (PP (IN in) (NP 1903)))) (. ?)))"}
+{"sentence":"What is the statue of liberty made of ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ is) (NP (NP (DT the) (NN statue)) (PP (IN of) (NP liberty)))) (VP (VBN made) (PP of))) (. ?)))"}
+{"sentence":"What is pilates ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP pilates)) (. ?)))"}
+{"sentence":"What planet is known as the `` red '' planet ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN planet)) (@SBARQ (SQ (VBZ is) (VP (VBN known) (PP (IN as) (NP (DT the) (@NP (`` ``) (@NP (JJ red) (@NP ('' '') (NN planet)))))))) (. ?)))"}
+{"sentence":"What is the depth of the Nile river ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN depth)) (PP (IN of) (NP (DT the) (@NP (NNP Nile) (NN river)))))) (. ?)))"}
+{"sentence":"What is the colorful Korean traditional dress called ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ is) (NP (DT the) (@NP (JJ colorful) (@NP (JJ Korean) (@NP (JJ traditional) (NN dress)))))) (VP called)) (. ?)))"}
+{"sentence":"What is Mardi Gras ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NNP Mardi) (NNP Gras))) (. ?)))"}
+{"sentence":"Mexican pesos are worth what in U.S. dollars ?","label":"NUM","parse":"(ROOT (NP (JJ Mexican) (NNS pesos)) (@S (VP (@VP (VBP are) (ADJP (IN worth) (WHNP what))) (PP (IN in) (NP (NNP U.S.) (NNS dollars)))) (. ?)))"}
+{"sentence":"Who was the first African American to play for the Brooklyn Dodgers ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (@NP (JJ first) (@NP (NNP African) (NNP American)))) (S (TO to) (VP (VB play) (PP (IN for) (NP (DT the) (@NP (NNP Brooklyn) (NNPS Dodgers)))))))) (. ?)))"}
+{"sentence":"Who was the first Prime Minister of Canada ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (@NP (JJ first) (@NP (NNP Prime) (NNP Minister)))) (PP (IN of) (NP Canada)))) (. ?)))"}
+{"sentence":"How many Admirals are there in the U.S. Navy ?","label":"NUM","parse":"(ROOT (WHNP (WHADJP (WRB How) (JJ many)) (NNS Admirals)) (@SBARQ (SQ (@SQ (VBP are) (NP there)) (PP (IN in) (NP (DT the) (@NP (NNP U.S.) (NNP Navy))))) (. ?)))"}
+{"sentence":"What instrument did Glenn Miller play ?","label":"ENTY","parse":"(ROOT (WHNP (WDT What) (NN instrument)) (@SBARQ (SQ (@SQ (VBD did) (NP (NNP Glenn) (NNP Miller))) (VP play)) (. ?)))"}
+{"sentence":"How old was Joan of Arc when she died ?","label":"NUM","parse":"(ROOT (WHADJP (WRB How) (JJ old)) (@SBARQ (SQ (VBD was) (NP (NP Joan) (PP (IN of) (NP (NP Arc) (SBAR (WHADVP when) (S (NP she) (VP died))))))) (. ?)))"}
+{"sentence":"What does the word fortnight mean ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ does) (NP (DT the) (@NP (NN word) (NN fortnight)))) (VP mean)) (. ?)))"}
+{"sentence":"What is dianetics ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP dianetics)) (. ?)))"}
+{"sentence":"What is the capital of Ethiopia ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN capital)) (PP (IN of) (NP Ethiopia)))) (. ?)))"}
+{"sentence":"For how long is an elephant pregnant ?","label":"NUM","parse":"(ROOT (WHPP (IN For) (WHNP (WRB how) (RB long))) (@SBARQ (SQ (@SQ (VBZ is) (NP (DT an) (NN elephant))) (ADJP pregnant)) (. ?)))"}
+{"sentence":"How did Janice Joplin die ?","label":"DESC","parse":"(ROOT (WHADVP How) (@SBARQ (SQ (@SQ (VBD did) (NP (NNP Janice) (NNP Joplin))) (VP die)) (. ?)))"}
+{"sentence":"What is the primary language in Iceland ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJ primary) (NN language))) (PP (IN in) (NP Iceland)))) (. ?)))"}
+{"sentence":"What is the difference between AM radio stations and FM radio stations ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN difference)) (PP (IN between) (NP (@NP (NP (JJ AM) (@NP (NN radio) (NNS stations))) (CC and)) (NP (JJ FM) (@NP (NN radio) (NNS stations))))))) (. ?)))"}
+{"sentence":"What is osteoporosis ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP osteoporosis)) (. ?)))"}
+{"sentence":"Who was the first woman governor in the U.S. ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (@NP (JJ first) (@NP (NN woman) (NN governor)))) (PP (IN in) (NP (DT the) (NNP U.S.))))) (. ?)))"}
+{"sentence":"What is peyote ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP peyote)) (. ?)))"}
+{"sentence":"What is the esophagus used for ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ is) (NP (DT the) (NNS esophagus))) (VP (VBN used) (PP for))) (. ?)))"}
+{"sentence":"What is viscosity ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP viscosity)) (. ?)))"}
+{"sentence":"What year did Oklahoma become a state ?","label":"NUM","parse":"(ROOT (WHNP (WDT What) (NN year)) (@SBARQ (SQ (@SQ (VBD did) (NP Oklahoma)) (VP (VB become) (NP (DT a) (NN state)))) (. ?)))"}
+{"sentence":"What is the abbreviation for Texas ?","label":"ABBR","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN abbreviation)) (PP (IN for) (NP Texas)))) (. ?)))"}
+{"sentence":"What is a mirror made out of ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ is) (NP (DT a) (NN mirror))) (VP (@VP (VBN made) (PRT out)) (PP of))) (. ?)))"}
+{"sentence":"Where on the body is a mortarboard worn ?","label":"LOC","parse":"(ROOT (WHADVP (WRB Where) (PP (IN on) (NP (DT the) (NN body)))) (@SBARQ (SQ (@SQ (VBZ is) (NP (DT a) (NN mortarboard))) (ADJP worn)) (. ?)))"}
+{"sentence":"What was J.F.K. 's wife 's name ?","label":"HUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBD was) (NP (NP (NP (NNP J.F.K.) (POS 's)) (@NP (NN wife) (POS 's))) (NN name))) (. ?)))"}
+{"sentence":"What does I.V. stand for ?","label":"ABBR","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ does) (NP I.V.)) (VP (VB stand) (PP for))) (. ?)))"}
+{"sentence":"What is the chunnel ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT the) (NNP chunnel))) (. ?)))"}
+{"sentence":"Where is Hitler buried ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (@SQ (VBZ is) (NP Hitler)) (VP buried)) (. ?)))"}
+{"sentence":"What are antacids ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP antacids)) (. ?)))"}
+{"sentence":"What is pulmonary fibrosis ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (JJ pulmonary) (NN fibrosis))) (. ?)))"}
+{"sentence":"What are Quaaludes ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP Quaaludes)) (. ?)))"}
+{"sentence":"What is naproxen ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP naproxen)) (. ?)))"}
+{"sentence":"What is strep throat ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (JJ strep) (NN throat))) (. ?)))"}
+{"sentence":"What is the largest city in the U.S. ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJS largest) (NN city))) (PP (IN in) (NP (DT the) (NNP U.S.))))) (. ?)))"}
+{"sentence":"What is foot and mouth disease ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (@NP (NP foot) (CC and)) (NP (NN mouth) (NN disease)))) (. ?)))"}
+{"sentence":"What is the life expectancy of a dollar bill ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (NN life) (NN expectancy))) (PP (IN of) (NP (DT a) (@NP (NN dollar) (NN bill)))))) (. ?)))"}
+{"sentence":"What do you call a professional map drawer ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBP do) (NP you)) (VP (VB call) (NP (DT a) (@NP (JJ professional) (@NP (NN map) (NN drawer)))))) (. ?)))"}
+{"sentence":"What are Aborigines ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP Aborigines)) (. ?)))"}
+{"sentence":"What is hybridization ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP hybridization)) (. ?)))"}
+{"sentence":"What color is indigo ?","label":"ENTY","parse":"(ROOT (WHNP (WDT What) (NN color)) (@SBARQ (SQ (VBZ is) (NP indigo)) (. ?)))"}
+{"sentence":"How old do you have to be in order to rent a car in Italy ?","label":"NUM","parse":"(ROOT (WHADJP (WRB How) (JJ old)) (@SBARQ (SQ (@SQ (VBP do) (NP you)) (VP (VB have) (S (TO to) (VP (VB be) (SBAR (@SBAR (IN in) (NN order)) (S (TO to) (VP (VB rent) (NP (NP (DT a) (NN car)) (PP (IN in) (NP Italy)))))))))) (. ?)))"}
+{"sentence":"What does a barometer measure ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ does) (NP (DT a) (NN barometer))) (VP measure)) (. ?)))"}
+{"sentence":"What color is a giraffe 's tongue ?","label":"ENTY","parse":"(ROOT (WHNP (WDT What) (NN color)) (@SBARQ (SQ (VBZ is) (NP (NP (DT a) (@NP (NN giraffe) (POS 's))) (NN tongue))) (. ?)))"}
+{"sentence":"What does USPS stand for ?","label":"ABBR","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ does) (NP USPS)) (VP (VB stand) (PP for))) (. ?)))"}
+{"sentence":"What year did the NFL go on strike ?","label":"NUM","parse":"(ROOT (WHNP (WDT What) (NN year)) (@SBARQ (SQ (@SQ (VBD did) (NP (DT the) (NNP NFL))) (VP (VB go) (PP (IN on) (NP strike)))) (. ?)))"}
+{"sentence":"What is solar wind ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (JJ solar) (NN wind))) (. ?)))"}
+{"sentence":"What date did Neil Armstrong land on the moon ?","label":"NUM","parse":"(ROOT (WHNP (WDT What) (NN date)) (@SBARQ (SQ (@SQ (VBD did) (NP (NNP Neil) (NNP Armstrong))) (VP (VB land) (PP (IN on) (NP (DT the) (NN moon))))) (. ?)))"}
+{"sentence":"When was Hiroshima bombed ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (@SQ (VBD was) (NP Hiroshima)) (VP bombed)) (. ?)))"}
+{"sentence":"Where is the Savannah River ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NNP Savannah) (NNP River)))) (. ?)))"}
+{"sentence":"Who was the first woman killed in the Vietnam War ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (@SQ (VBD was) (NP (DT the) (@NP (JJ first) (NN woman)))) (VP (VBN killed) (PP (IN in) (NP (DT the) (@NP (NNP Vietnam) (NNP War)))))) (. ?)))"}
+{"sentence":"What planet has the strongest magnetic field of all the planets ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN planet)) (@SBARQ (SQ (VBZ has) (NP (NP (DT the) (@NP (JJS strongest) (@NP (JJ magnetic) (NN field)))) (PP (IN of) (NP (PDT all) (@NP (DT the) (NNS planets)))))) (. ?)))"}
+{"sentence":"Who is the governor of Alaska ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN governor)) (PP (IN of) (NP Alaska)))) (. ?)))"}
+{"sentence":"What year did Mussolini seize power in Italy ?","label":"NUM","parse":"(ROOT (WHNP (WDT What) (NN year)) (@SBARQ (SQ (@SQ (VBD did) (NP Mussolini)) (VP (@VP (VB seize) (NP power)) (PP (IN in) (NP Italy)))) (. ?)))"}
+{"sentence":"What is the capital of Persia ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN capital)) (PP (IN of) (NP Persia)))) (. ?)))"}
+{"sentence":"Where is the Eiffel Tower ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NNP Eiffel) (NNP Tower)))) (. ?)))"}
+{"sentence":"How many hearts does an octopus have ?","label":"NUM","parse":"(ROOT (WHNP (WHADJP (WRB How) (JJ many)) (NNS hearts)) (@SBARQ (SQ (@SQ (VBZ does) (NP (DT an) (NNS octopus))) (VP have)) (. ?)))"}
+{"sentence":"What is pneumonia ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP pneumonia)) (. ?)))"}
+{"sentence":"What is the deepest lake in the US ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJS deepest) (NN lake))) (PP (IN in) (NP (DT the) (NNP US))))) (. ?)))"}
+{"sentence":"What is a fuel cell ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT a) (@NP (NN fuel) (NN cell)))) (. ?)))"}
+{"sentence":"Who was the first U.S. president to appear on TV ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (@NP (JJ first) (@NP (NNP U.S.) (NN president)))) (S (TO to) (VP (VB appear) (PP (IN on) (NP TV)))))) (. ?)))"}
+{"sentence":"Where is the Little League Museum ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NNP Little) (@NP (NNP League) (NNP Museum))))) (. ?)))"}
+{"sentence":"What are the two types of twins ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP (NP (DT the) (@NP (CD two) (NNS types))) (PP (IN of) (NP twins)))) (. ?)))"}
+{"sentence":"What is the brightest star ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (JJS brightest) (NN star)))) (. ?)))"}
+{"sentence":"What is diabetes ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP diabetes)) (. ?)))"}
+{"sentence":"When was President Kennedy shot ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (@SQ (VBD was) (NP (NNP President) (NNP Kennedy))) (VP shot)) (. ?)))"}
+{"sentence":"What is TMJ ?","label":"ABBR","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP TMJ)) (. ?)))"}
+{"sentence":"What color is yak milk ?","label":"ENTY","parse":"(ROOT (WHNP (WDT What) (NN color)) (@SBARQ (SQ (VBZ is) (NP (NN yak) (NN milk))) (. ?)))"}
+{"sentence":"What date was Dwight D. Eisenhower born ?","label":"NUM","parse":"(ROOT (WHNP (WDT What) (NN date)) (@SBARQ (SQ (@SQ (VBD was) (NP (NNP Dwight) (@NP (NNP D.) (NNP Eisenhower)))) (VP born)) (. ?)))"}
+{"sentence":"What does the technical term ISDN mean ?","label":"ABBR","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ does) (NP (DT the) (@NP (JJ technical) (@NP (NN term) (NN ISDN))))) (VP mean)) (. ?)))"}
+{"sentence":"Why is the sun yellow ?","label":"DESC","parse":"(ROOT (WHADVP Why) (@SBARQ (SQ (@SQ (VBZ is) (NP (DT the) (NN sun))) (ADJP yellow)) (. ?)))"}
+{"sentence":"What is the conversion rate between dollars and pounds ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (NN conversion) (NN rate))) (PP (IN between) (NP (@NP (NNS dollars) (CC and)) (NNS pounds))))) (. ?)))"}
+{"sentence":"When was Abraham Lincoln born ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (@SQ (VBD was) (NP (NNP Abraham) (NNP Lincoln))) (VP born)) (. ?)))"}
+{"sentence":"What is the Milky Way ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NNP Milky) (NNP Way)))) (. ?)))"}
+{"sentence":"What is mold ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP mold)) (. ?)))"}
+{"sentence":"What year was Mozart born ?","label":"NUM","parse":"(ROOT (WHNP (WDT What) (NN year)) (@SBARQ (SQ (@SQ (VBD was) (NP Mozart)) (VP born)) (. ?)))"}
+{"sentence":"What is a group of frogs called ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ is) (NP (NP (DT a) (NN group)) (PP (IN of) (NP frogs)))) (VP called)) (. ?)))"}
+{"sentence":"What is the name of William Penn 's ship ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN name)) (PP (IN of) (NP (NP (NNP William) (@NP (NNP Penn) (POS 's))) (NN ship))))) (. ?)))"}
+{"sentence":"What is the melting point of gold ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJ melting) (NN point))) (PP (IN of) (NP gold)))) (. ?)))"}
+{"sentence":"What is the street address of the White House ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (NN street) (NN address))) (PP (IN of) (NP (DT the) (@NP (NNP White) (NNP House)))))) (. ?)))"}
+{"sentence":"What is semolina ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP semolina)) (. ?)))"}
+{"sentence":"What fruit is Melba sauce made from ?","label":"ENTY","parse":"(ROOT (WHNP (WDT What) (NN fruit)) (@SBARQ (SQ (@SQ (VBZ is) (NP (NN Melba) (NN sauce))) (VP (VBN made) (PP from))) (. ?)))"}
+{"sentence":"What is Ursa Major ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NNP Ursa) (NNP Major))) (. ?)))"}
+{"sentence":"What is the percentage of water content in the human body ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN percentage)) (PP (IN of) (NP (NP (NN water) (NN content)) (PP (IN in) (NP (DT the) (@NP (JJ human) (NN body)))))))) (. ?)))"}
+{"sentence":"How much does water weigh ?","label":"NUM","parse":"(ROOT (WHADJP (WRB How) (JJ much)) (@SBARQ (SQ (@SQ (VBZ does) (NP water)) (VP weigh)) (. ?)))"}
+{"sentence":"What was President Lyndon Johnson 's reform program called ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBD was) (NP (NP (NNP President) (@NP (NNP Lyndon) (@NP (NNP Johnson) (POS 's)))) (@NP (NN reform) (NN program)))) (VP called)) (. ?)))"}
+{"sentence":"What is the murder rate in Windsor , Ontario ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (NN murder) (NN rate))) (PP (IN in) (NP (NNP Windsor) (@NP (, ,) (NNP Ontario)))))) (. ?)))"}
+{"sentence":"Who is the only president to serve 2 non-consecutive terms ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJ only) (NN president))) (S (TO to) (VP (VB serve) (NP (CD 2) (@NP (JJ non-consecutive) (NNS terms))))))) (. ?)))"}
+{"sentence":"What is the population of Australia ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN population)) (PP (IN of) (NP Australia)))) (. ?)))"}
+{"sentence":"Who painted the ceiling of the Sistine Chapel ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD painted) (NP (NP (DT the) (NN ceiling)) (PP (IN of) (NP (DT the) (@NP (NNP Sistine) (NN Chapel)))))) (. ?)))"}
+{"sentence":"Name a stimulant .","label":"ENTY","parse":"(ROOT (VP (VB Name) (NP (DT a) (NN stimulant))) (. .))"}
+{"sentence":"What is the effect of volcanoes on the climate ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (NP volcanoes) (PP (IN on) (NP (DT the) (NN climate))))))) (. ?)))"}
+{"sentence":"What year did the Andy Griffith show begin ?","label":"NUM","parse":"(ROOT (WHNP (WDT What) (NN year)) (@SBARQ (SQ (@SQ (VBD did) (NP (DT the) (@NP (NNP Andy) (@NP (NNP Griffith) (NN show))))) (VP begin)) (. ?)))"}
+{"sentence":"What is acid rain ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (JJ acid) (NN rain))) (. ?)))"}
+{"sentence":"What is the date of Mexico 's independence ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN date)) (PP (IN of) (NP (NP (NNP Mexico) (POS 's)) (NN independence))))) (. ?)))"}
+{"sentence":"What is the location of Lake Champlain ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN location)) (PP (IN of) (NP (NNP Lake) (NNP Champlain))))) (. ?)))"}
+{"sentence":"What is the Illinois state flower ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NNP Illinois) (@NP (NN state) (NN flower))))) (. ?)))"}
+{"sentence":"What is Maryland 's state bird ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (NNP Maryland) (POS 's)) (@NP (NN state) (NN bird)))) (. ?)))"}
+{"sentence":"What is quicksilver ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP quicksilver)) (. ?)))"}
+{"sentence":"Who wrote `` The Divine Comedy '' ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (@VP (@VP (VBD wrote) (`` ``)) (NP (DT The) (@NP (NNP Divine) (NNP Comedy)))) ('' '')) (. ?)))"}
+{"sentence":"What is the speed of light ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN speed)) (PP (IN of) (NP light)))) (. ?)))"}
+{"sentence":"What is the width of a football field ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN width)) (PP (IN of) (NP (DT a) (@NP (NN football) (NN field)))))) (. ?)))"}
+{"sentence":"Why in tennis are zero points called love ?","label":"DESC","parse":"(ROOT (WHADVP (WRB Why) (PP (IN in) (NN tennis))) (@SBARQ (SQ (VBP are) (NP (NP (CD zero) (NNS points)) (VP (VBN called) (NP love)))) (. ?)))"}
+{"sentence":"What kind of dog was Toto in the Wizard of Oz ?","label":"ENTY","parse":"(ROOT (WHNP (WHNP (WDT What) (NN kind)) (PP (IN of) (NP dog))) (@SBARQ (SQ (VBD was) (NP (NP Toto) (PP (IN in) (NP (NP (DT the) (NNP Wizard)) (PP (IN of) (NP Oz)))))) (. ?)))"}
+{"sentence":"What is a thyroid ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT a) (NN thyroid))) (. ?)))"}
+{"sentence":"What does ciao mean ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ does) (NP ciao)) (VP mean)) (. ?)))"}
+{"sentence":"What is the only artery that carries blue blood from the heart to the lungs ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJ only) (NN artery))) (SBAR (WHNP that) (S (@VP (VBZ carries) (NP (JJ blue) (NN blood))) (PP (IN from) (NP (NP (DT the) (NN heart)) (PP (TO to) (NP (DT the) (NNS lungs))))))))) (. ?)))"}
+{"sentence":"How often does Old Faithful erupt at Yellowstone National Park ?","label":"NUM","parse":"(ROOT (WHADVP (WRB How) (RB often)) (@SBARQ (SQ (@SQ (VBZ does) (NP (NNP Old) (NNP Faithful))) (VP (VB erupt) (PP (IN at) (NP (NNP Yellowstone) (@NP (NNP National) (NNP Park)))))) (. ?)))"}
+{"sentence":"What is acetic acid ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (JJ acetic) (NN acid))) (. ?)))"}
+{"sentence":"What is the elevation of St. Louis , MO ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN elevation)) (PP (IN of) (NP (@NP (NP (NNP St.) (NNP Louis)) (, ,)) (NP MO))))) (. ?)))"}
+{"sentence":"What color does litmus paper turn when it comes into contact with a strong acid ?","label":"ENTY","parse":"(ROOT (WHNP (WDT What) (NN color)) (@SBARQ (SQ (@SQ (VBZ does) (NP (NN litmus) (NN paper))) (VP (VB turn) (SBAR (WHADVP when) (S (NP it) (VP (@VP (VBZ comes) (PP (IN into) (NP contact))) (PP (IN with) (NP (DT a) (@NP (JJ strong) (NN acid))))))))) (. ?)))"}
+{"sentence":"What are the colors of the German flag ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP (NP (DT the) (NNS colors)) (PP (IN of) (NP (DT the) (@NP (JJ German) (NN flag)))))) (. ?)))"}
+{"sentence":"What is the Moulin Rouge ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NNP Moulin) (NNP Rouge)))) (. ?)))"}
+{"sentence":"What soviet seaport is on the Black Sea ?","label":"LOC","parse":"(ROOT (WHNP (@WHNP (WDT What) (JJ soviet)) (NN seaport)) (@SBARQ (SQ (VBZ is) (PP (IN on) (NP (DT the) (@NP (NNP Black) (NNP Sea))))) (. ?)))"}
+{"sentence":"What is the atomic weight of silver ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJ atomic) (NN weight))) (PP (IN of) (NP silver)))) (. ?)))"}
+{"sentence":"What currency do they use in Brazil ?","label":"ENTY","parse":"(ROOT (WHNP (WDT What) (NN currency)) (@SBARQ (SQ (@SQ (VBP do) (NP they)) (VP (VB use) (PP (IN in) (NP Brazil)))) (. ?)))"}
+{"sentence":"What are pathogens ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP pathogens)) (. ?)))"}
+{"sentence":"What is mad cow disease ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (JJ mad) (@NP (NN cow) (NN disease)))) (. ?)))"}
+{"sentence":"Name a food high in zinc .","label":"ENTY","parse":"(ROOT (VP (VB Name) (S (NP (DT a) (NN food)) (ADJP (JJ high) (PP (IN in) (NP zinc))))) (. .))"}
+{"sentence":"When did North Carolina enter the union ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (@SQ (VBD did) (NP (NNP North) (NNP Carolina))) (VP (VB enter) (NP (DT the) (NN union)))) (. ?)))"}
+{"sentence":"Where do apple snails live ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (@SQ (VBP do) (NP (NN apple) (NNS snails))) (VP live)) (. ?)))"}
+{"sentence":"What are ethics ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP ethics)) (. ?)))"}
+{"sentence":"What does CPR stand for ?","label":"ABBR","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ does) (NP CPR)) (VP (VB stand) (PP for))) (. ?)))"}
+{"sentence":"What is an annuity ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT an) (NN annuity))) (. ?)))"}
+{"sentence":"Who killed John F. Kennedy ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD killed) (NP (NNP John) (@NP (NNP F.) (NNP Kennedy)))) (. ?)))"}
+{"sentence":"Who was the first vice president of the U.S. ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (@NP (JJ first) (@NP (NN vice) (NN president)))) (PP (IN of) (NP (DT the) (NNP U.S.))))) (. ?)))"}
+{"sentence":"What birthstone is turquoise ?","label":"ENTY","parse":"(ROOT (WHNP (WDT What) (NN birthstone)) (@SBARQ (SQ (VBZ is) (NP turquoise)) (. ?)))"}
+{"sentence":"Who was the first US President to ride in an automobile to his inauguration ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (@NP (JJ first) (@NP (NNP US) (NNP President)))) (S (TO to) (VP (@VP (VB ride) (PP (IN in) (NP (DT an) (NN automobile)))) (PP (TO to) (NP (PRP$ his) (NN inauguration))))))) (. ?)))"}
+{"sentence":"How old was the youngest president of the United States ?","label":"NUM","parse":"(ROOT (WHADJP (WRB How) (JJ old)) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (@NP (JJS youngest) (NN president))) (PP (IN of) (NP (DT the) (@NP (NNP United) (NNPS States)))))) (. ?)))"}
+{"sentence":"When was Ulysses S. Grant born ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (@SQ (VBD was) (NP (NNP Ulysses) (@NP (NNP S.) (NNP Grant)))) (VP born)) (. ?)))"}
+{"sentence":"What is Muscular Dystrophy ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (JJ Muscular) (NN Dystrophy))) (. ?)))"}
+{"sentence":"Who lived in the Neuschwanstein castle ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD lived) (PP (IN in) (NP (DT the) (@NP (NNP Neuschwanstein) (NN castle))))) (. ?)))"}
+{"sentence":"What is propylene glycol ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NN propylene) (NN glycol))) (. ?)))"}
+{"sentence":"What is a panic disorder ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT a) (@NP (NN panic) (NN disorder)))) (. ?)))"}
+{"sentence":"Who invented the instant Polaroid camera ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD invented) (NP (DT the) (@NP (JJ instant) (@NP (NNP Polaroid) (NN camera))))) (. ?)))"}
+{"sentence":"What is a carcinogen ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT a) (NN carcinogen))) (. ?)))"}
+{"sentence":"What is a baby lion called ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ is) (NP (DT a) (@NP (NN baby) (NN lion)))) (VP called)) (. ?)))"}
+{"sentence":"What is the world 's population ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (NN world) (POS 's))) (NN population))) (. ?)))"}
+{"sentence":"What is nepotism ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP nepotism)) (. ?)))"}
+{"sentence":"What is die-casting ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP die-casting)) (. ?)))"}
+{"sentence":"What is myopia ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP myopia)) (. ?)))"}
+{"sentence":"What is the sales tax rate in New York ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (NNS sales) (@NP (NN tax) (NN rate)))) (PP (IN in) (NP (NNP New) (NNP York))))) (. ?)))"}
+{"sentence":"Developing nations comprise what percentage of the world 's population ?","label":"NUM","parse":"(ROOT (NP (VBG Developing) (NNS nations)) (@S (VP (VBP comprise) (NP (NP (WP what) (NN percentage)) (PP (IN of) (NP (NP (DT the) (@NP (NN world) (POS 's))) (NN population))))) (. ?)))"}
+{"sentence":"What is the fourth highest mountain in the world ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ is) (NP (DT the) (@NP (JJ fourth) (@NP (JJS highest) (NN mountain))))) (PP (IN in) (NP (DT the) (NN world)))) (. ?)))"}
+{"sentence":"What is Shakespeare 's nickname ?","label":"HUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (NNP Shakespeare) (POS 's)) (NN nickname))) (. ?)))"}
+{"sentence":"What is the heaviest naturally occurring element ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (JJS heaviest) (@NP (ADJP (RB naturally) (VBG occurring)) (NN element))))) (. ?)))"}
+{"sentence":"When is Father 's Day ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (VBZ is) (NP (NP (NNP Father) (POS 's)) (NN Day))) (. ?)))"}
+{"sentence":"What does the acronym NASA stand for ?","label":"ABBR","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ does) (NP (DT the) (@NP (NN acronym) (NNP NASA)))) (VP (VB stand) (PP for))) (. ?)))"}
+{"sentence":"How long is the Columbia River in miles ?","label":"NUM","parse":"(ROOT (WHADJP (WRB How) (JJ long)) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (NNP Columbia) (NNP River))) (PP (IN in) (NP miles)))) (. ?)))"}
+{"sentence":"What city 's newspaper is called `` The Star '' ?","label":"LOC","parse":"(ROOT (WHNP (WHNP (@WHNP (WDT What) (NN city)) (POS 's)) (NN newspaper)) (@SBARQ (SQ (VBZ is) (VP (VBN called) (S (`` ``) (@S (NP (DT The) (NNP Star)) ('' ''))))) (. ?)))"}
+{"sentence":"What is carbon dioxide ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NN carbon) (NN dioxide))) (. ?)))"}
+{"sentence":"Where is the Mason\/Dixon line ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NNP Mason\/Dixon) (NN line)))) (. ?)))"}
+{"sentence":"When was the Boston tea party ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (VBD was) (NP (DT the) (@NP (NNP Boston) (@NP (NN tea) (NN party))))) (. ?)))"}
+{"sentence":"What is metabolism ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP metabolism)) (. ?)))"}
+{"sentence":"Which U.S.A. president appeared on `` Laugh-In '' ?","label":"HUM","parse":"(ROOT (WHNP (@WHNP (WDT Which) (NNP U.S.A.)) (NN president)) (@SBARQ (SQ (VBD appeared) (PP (@PP (@PP (IN on) (`` ``)) (NP Laugh-In)) ('' ''))) (. ?)))"}
+{"sentence":"What are cigarettes made of ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBP are) (NP cigarettes)) (VP (VBN made) (PP of))) (. ?)))"}
+{"sentence":"What is the capital of Zimbabwe ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN capital)) (PP (IN of) (NP Zimbabwe)))) (. ?)))"}
+{"sentence":"What does NASA stand for ?","label":"ABBR","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ does) (NP NASA)) (VP (VB stand) (PP for))) (. ?)))"}
+{"sentence":"What is the state flower of Michigan ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (NN state) (NN flower))) (PP (IN of) (NP Michigan)))) (. ?)))"}
+{"sentence":"What are semiconductors ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP semiconductors)) (. ?)))"}
+{"sentence":"What is nuclear power ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (JJ nuclear) (NN power))) (. ?)))"}
+{"sentence":"What is a tsunami ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT a) (NN tsunami))) (. ?)))"}
+{"sentence":"Who is the congressman from state of Texas on the armed forces committee ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN congressman)) (PP (IN from) (NP (NP state) (PP (IN of) (NP (NP Texas) (PP (IN on) (NP (DT the) (@NP (JJ armed) (@NP (NNS forces) (NN committee))))))))))) (. ?)))"}
+{"sentence":"Who was president in 1913 ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (NP (NP president) (PP (IN in) (NP 1913)))) (. ?)))"}
+{"sentence":"When was the first kidney transplant ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (VBD was) (NP (DT the) (@NP (JJ first) (@NP (NN kidney) (NN transplant))))) (. ?)))"}
+{"sentence":"What are Canada 's two territories ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP (NP (NNP Canada) (POS 's)) (@NP (CD two) (NNS territories)))) (. ?)))"}
+{"sentence":"What was the name of the plane Lindbergh flew solo across the Atlantic ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (NN name)) (PP (IN of) (NP (NP (DT the) (NN plane)) (SBAR (NP Lindbergh) (VP (@VP (VBD flew) (ADVP solo)) (PP (IN across) (NP (DT the) (NNP Atlantic))))))))) (. ?)))"}
+{"sentence":"What is genocide ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP genocide)) (. ?)))"}
+{"sentence":"What continent is Argentina on ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN continent)) (@SBARQ (SQ (@SQ (VBZ is) (NP Argentina)) (PP on)) (. ?)))"}
+{"sentence":"What monastery was raided by Vikings in the late eighth century ?","label":"ENTY","parse":"(ROOT (WHNP (WDT What) (NN monastery)) (@SBARQ (SQ (VBD was) (VP (@VP (VBN raided) (PP (IN by) (NP Vikings))) (PP (IN in) (NP (DT the) (@NP (JJ late) (@NP (JJ eighth) (NN century))))))) (. ?)))"}
+{"sentence":"What is an earthquake ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT an) (NN earthquake))) (. ?)))"}
+{"sentence":"Where is the tallest roller coaster located ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (@SQ (VBZ is) (NP (DT the) (@NP (JJS tallest) (@NP (NN roller) (NN coaster))))) (VP located)) (. ?)))"}
+{"sentence":"What are enzymes ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP enzymes)) (. ?)))"}
+{"sentence":"Who discovered oxygen ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD discovered) (NP oxygen)) (. ?)))"}
+{"sentence":"What is bangers and mash ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (@NP (NNS bangers) (CC and)) (NN mash))) (. ?)))"}
+{"sentence":"What is the name given to the Tiger at Louisiana State University ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN name)) (PP (VBN given) (PP (TO to) (NP (NP (DT the) (NNP Tiger)) (PP (IN at) (NP (NNP Louisiana) (@NP (NNP State) (NNP University))))))))) (. ?)))"}
+{"sentence":"Where are the British crown jewels kept ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (@SQ (VBP are) (NP (DT the) (@NP (JJ British) (@NP (NN crown) (NNS jewels))))) (VP kept)) (. ?)))"}
+{"sentence":"Who was the first person to reach the North Pole ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (@NP (JJ first) (NN person))) (S (TO to) (VP (VB reach) (NP (DT the) (@NP (NNP North) (NNP Pole))))))) (. ?)))"}
+{"sentence":"What is an ulcer ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT an) (NN ulcer))) (. ?)))"}
+{"sentence":"What is vertigo ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP vertigo)) (. ?)))"}
+{"sentence":"What is the spirometer test ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (NN spirometer) (NN test)))) (. ?)))"}
+{"sentence":"When is the official first day of summer ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJ official) (@NP (JJ first) (NN day)))) (PP (IN of) (NP summer)))) (. ?)))"}
+{"sentence":"What does the abbreviation SOS mean ?","label":"ABBR","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBZ does) (NP (DT the) (@NP (NN abbreviation) (NNP SOS)))) (VP mean)) (. ?)))"}
+{"sentence":"What is the smallest bird in Britain ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJS smallest) (NN bird))) (PP (IN in) (NP Britain)))) (. ?)))"}
+{"sentence":"Who invented Trivial Pursuit ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD invented) (NP (JJ Trivial) (NN Pursuit))) (. ?)))"}
+{"sentence":"What gasses are in the troposphere ?","label":"ENTY","parse":"(ROOT (WHNP (WDT What) (NNS gasses)) (@SBARQ (SQ (VBP are) (PP (IN in) (NP (DT the) (NNP troposphere)))) (. ?)))"}
+{"sentence":"Which country has the most water pollution ?","label":"LOC","parse":"(ROOT (WHNP (WDT Which) (NN country)) (@SBARQ (SQ (VBZ has) (NP (DT the) (@NP (JJS most) (@NP (NN water) (NN pollution))))) (. ?)))"}
+{"sentence":"What is the scientific name for elephant ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJ scientific) (NN name))) (PP (IN for) (NP elephant)))) (. ?)))"}
+{"sentence":"Who is the actress known for her role in the movie `` Gypsy '' ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (@SQ (VBZ is) (NP (DT the) (NN actress))) (VP (VBN known) (PP (IN for) (NP (NP (PRP$ her) (NN role)) (PP (IN in) (NP (DT the) (@NP (NN movie) (@NP (`` ``) (@NP (NN Gypsy) ('' '')))))))))) (. ?)))"}
+{"sentence":"What breed of hunting dog did the Beverly Hillbillies own ?","label":"ENTY","parse":"(ROOT (WHNP (WHNP (WDT What) (NN breed)) (PP (IN of) (NP (NN hunting) (NN dog)))) (@SBARQ (SQ (@SQ (VBD did) (NP (DT the) (@NP (NNP Beverly) (NNPS Hillbillies)))) (VP own)) (. ?)))"}
+{"sentence":"What is the rainiest place on Earth ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJS rainiest) (NN place))) (PP (IN on) (NP Earth)))) (. ?)))"}
+{"sentence":"Who was the first African American to win the Nobel Prize in literature ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (@NP (JJ first) (@NP (NNP African) (NNP American)))) (S (TO to) (VP (VB win) (NP (NP (DT the) (@NP (NNP Nobel) (NNP Prize))) (PP (IN in) (NP literature))))))) (. ?)))"}
+{"sentence":"When is St. Patrick 's Day ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (VBZ is) (NP (NP (NNP St.) (@NP (NNP Patrick) (POS 's))) (NN Day))) (. ?)))"}
+{"sentence":"What was FDR 's dog 's name ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBD was) (NP (NP (NP (NNP FDR) (POS 's)) (@NP (NN dog) (POS 's))) (NN name))) (. ?)))"}
+{"sentence":"What colors need to be mixed to get the color pink ?","label":"ENTY","parse":"(ROOT (WHNP (WDT What) (NNS colors)) (@SBARQ (SQ (VBP need) (S (TO to) (VP (VB be) (ADJP (JJ mixed) (S (TO to) (VP (VB get) (NP (DT the) (@NP (JJ color) (NN pink))))))))) (. ?)))"}
+{"sentence":"What is the most popular sport in Japan ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (ADJP (RBS most) (JJ popular)) (NN sport))) (PP (IN in) (NP Japan)))) (. ?)))"}
+{"sentence":"What is the active ingredient in baking soda ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (JJ active) (NN ingredient))) (PP (IN in) (NP (JJ baking) (NN soda))))) (. ?)))"}
+{"sentence":"When was Thomas Jefferson born ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (@SQ (VBD was) (NP (NNP Thomas) (NNP Jefferson))) (VP born)) (. ?)))"}
+{"sentence":"How cold should a refrigerator be ?","label":"NUM","parse":"(ROOT (WHADJP (WRB How) (JJ cold)) (@SBARQ (SQ (@SQ (MD should) (NP (DT a) (NN refrigerator))) (VP be)) (. ?)))"}
+{"sentence":"When was the telephone invented ?","label":"NUM","parse":"(ROOT (WHADVP When) (@SBARQ (SQ (@SQ (VBD was) (NP (DT the) (NN telephone))) (VP invented)) (. ?)))"}
+{"sentence":"What is the most common eye color ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT the) (@NP (JJS most) (@NP (JJ common) (@NP (NN eye) (NN color)))))) (. ?)))"}
+{"sentence":"Where was the first golf course in the United States ?","label":"LOC","parse":"(ROOT (WHADVP Where) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (@NP (JJ first) (@NP (NN golf) (NN course)))) (PP (IN in) (NP (DT the) (@NP (NNP United) (NNPS States)))))) (. ?)))"}
+{"sentence":"What is schizophrenia ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP schizophrenia)) (. ?)))"}
+{"sentence":"What is angiotensin ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP angiotensin)) (. ?)))"}
+{"sentence":"What did Jesse Jackson organize ?","label":"HUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBD did) (NP (NNP Jesse) (NNP Jackson))) (VP organize)) (. ?)))"}
+{"sentence":"What is New York 's state bird ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (NNP New) (@NP (NNP York) (POS 's))) (@NP (NN state) (NN bird)))) (. ?)))"}
+{"sentence":"What is the National Park in Utah ?","label":"LOC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (@NP (NNP National) (NNP Park))) (PP (IN in) (NP Utah)))) (. ?)))"}
+{"sentence":"What is Susan B. Anthony 's birthday ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (NNP Susan) (@NP (NNP B.) (@NP (NNP Anthony) (POS 's)))) (NN birthday))) (. ?)))"}
+{"sentence":"In which state would you find the Catskill Mountains ?","label":"LOC","parse":"(ROOT (WHPP (IN In) (WHNP (WDT which) (NN state))) (@SBARQ (SQ (@SQ (MD would) (NP you)) (VP (VB find) (NP (DT the) (@NP (NNP Catskill) (NNPS Mountains))))) (. ?)))"}
+{"sentence":"What do you call a word that is spelled the same backwards and forwards ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBP do) (NP you)) (VP (VB call) (NP (NP (DT a) (NN word)) (SBAR (WHNP that) (S (VBZ is) (VP (@VP (VBN spelled) (NP (DT the) (JJ same))) (ADVP (@ADVP (RB backwards) (CC and)) (RB forwards)))))))) (. ?)))"}
+{"sentence":"What are pediatricians ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP pediatricians)) (. ?)))"}
+{"sentence":"What chain store is headquartered in Bentonville , Arkansas ?","label":"HUM","parse":"(ROOT (WHNP (@WHNP (WDT What) (NN chain)) (NN store)) (@SBARQ (SQ (VBZ is) (VP (VBN headquartered) (PP (IN in) (NP (NNP Bentonville) (@NP (, ,) (NNP Arkansas)))))) (. ?)))"}
+{"sentence":"What are solar cells ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP (JJ solar) (NNS cells))) (. ?)))"}
+{"sentence":"What is compounded interest ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (JJ compounded) (NN interest))) (. ?)))"}
+{"sentence":"What are capers ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBP are) (NP capers)) (. ?)))"}
+{"sentence":"What is an antigen ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT an) (NN antigen))) (. ?)))"}
+{"sentence":"What currency does Luxembourg use ?","label":"ENTY","parse":"(ROOT (WHNP (WDT What) (NN currency)) (@SBARQ (SQ (@SQ (VBZ does) (NP Luxembourg)) (VP use)) (. ?)))"}
+{"sentence":"What is the population of Venezuela ?","label":"NUM","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN population)) (PP (IN of) (NP Venezuela)))) (. ?)))"}
+{"sentence":"What type of polymer is used for bulletproof vests ?","label":"ENTY","parse":"(ROOT (WHNP (WHNP (WDT What) (NN type)) (PP (IN of) (NP polymer))) (@SBARQ (SQ (VBZ is) (VP (VBN used) (PP (IN for) (NP (JJ bulletproof) (NNS vests))))) (. ?)))"}
+{"sentence":"What currency does Argentina use ?","label":"ENTY","parse":"(ROOT (WHNP (WDT What) (NN currency)) (@SBARQ (SQ (@SQ (VBZ does) (NP Argentina)) (VP use)) (. ?)))"}
+{"sentence":"What is a thermometer ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (DT a) (NN thermometer))) (. ?)))"}
+{"sentence":"What Canadian city has the largest population ?","label":"LOC","parse":"(ROOT (WHNP (@WHNP (WDT What) (JJ Canadian)) (NN city)) (@SBARQ (SQ (VBZ has) (NP (DT the) (@NP (JJS largest) (NN population)))) (. ?)))"}
+{"sentence":"What color are crickets ?","label":"ENTY","parse":"(ROOT (WHNP (WDT What) (NN color)) (@SBARQ (SQ (VBP are) (NP crickets)) (. ?)))"}
+{"sentence":"Which country gave New York the Statue of Liberty ?","label":"LOC","parse":"(ROOT (WHNP (WDT Which) (NN country)) (@SBARQ (SQ (@VP (VBD gave) (NP (NNP New) (NNP York))) (NP (NP (DT the) (NNP Statue)) (PP (IN of) (NP Liberty)))) (. ?)))"}
+{"sentence":"What was the name of the first U.S. satellite sent into space ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (@SQ (VBD was) (NP (NP (DT the) (NN name)) (PP (IN of) (NP (DT the) (@NP (JJ first) (@NP (NNP U.S.) (NN satellite))))))) (VP (VBN sent) (PP (IN into) (NP space)))) (. ?)))"}
+{"sentence":"What precious stone is a form of pure carbon ?","label":"ENTY","parse":"(ROOT (WHNP (@WHNP (WDT What) (JJ precious)) (NN stone)) (@SBARQ (SQ (VBZ is) (NP (NP (DT a) (NN form)) (PP (IN of) (NP (JJ pure) (NN carbon))))) (. ?)))"}
+{"sentence":"What kind of gas is in a fluorescent bulb ?","label":"ENTY","parse":"(ROOT (WHNP (WHNP (WDT What) (NN kind)) (PP (IN of) (NP gas))) (@SBARQ (SQ (VBZ is) (PP (IN in) (NP (DT a) (@NP (JJ fluorescent) (NN bulb))))) (. ?)))"}
+{"sentence":"What is rheumatoid arthritis ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (JJ rheumatoid) (NN arthritis))) (. ?)))"}
+{"sentence":"What river runs through Rowe , Italy ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN river)) (@SBARQ (SQ (VBZ runs) (PP (IN through) (NP (NNP Rowe) (@NP (, ,) (NNP Italy))))) (. ?)))"}
+{"sentence":"What is cerebral palsy ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (JJ cerebral) (NN palsy))) (. ?)))"}
+{"sentence":"What city is also known as `` The Gateway to the West '' ?","label":"LOC","parse":"(ROOT (WHNP (WDT What) (NN city)) (@SBARQ (SQ (@SQ (VBZ is) (ADVP also)) (VP (VBN known) (PP (@PP (@PP (IN as) (`` ``)) (NP (NP (DT The) (NN Gateway)) (PP (TO to) (NP (DT the) (NNP West))))) ('' '')))) (. ?)))"}
+{"sentence":"How far away is the moon ?","label":"NUM","parse":"(ROOT (WHADVP (@WHADVP (WRB How) (RB far)) (RB away)) (@SBARQ (SQ (VBZ is) (NP (DT the) (NN moon))) (. ?)))"}
+{"sentence":"What is the source of natural gas ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN source)) (PP (IN of) (NP (JJ natural) (NN gas))))) (. ?)))"}
+{"sentence":"In what spacecraft did U.S. astronaut Alan Shepard make his historic 1961 flight ?","label":"ENTY","parse":"(ROOT (WHPP (IN In) (WHNP (WDT what) (NN spacecraft))) (@SBARQ (SQ (@SQ (VBD did) (NP (NNP U.S.) (@NP (NN astronaut) (@NP (NNP Alan) (NNP Shepard))))) (VP (VB make) (NP (PRP$ his) (@NP (JJ historic) (@NP (CD 1961) (NN flight)))))) (. ?)))"}
+{"sentence":"What is pectin ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP pectin)) (. ?)))"}
+{"sentence":"What is bio-diversity ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP bio-diversity)) (. ?)))"}
+{"sentence":"What 's the easiest way to remove wallpaper ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ 's) (NP (NP (DT the) (@NP (JJS easiest) (NN way))) (S (TO to) (VP (VB remove) (NP wallpaper))))) (. ?)))"}
+{"sentence":"What year did the Titanic start on its journey ?","label":"NUM","parse":"(ROOT (WHNP (WDT What) (NN year)) (@SBARQ (SQ (@SQ (VBD did) (NP (DT the) (NNP Titanic))) (VP (VB start) (PP (IN on) (NP (PRP$ its) (NN journey))))) (. ?)))"}
+{"sentence":"How much of an apple is water ?","label":"NUM","parse":"(ROOT (WHNP (WHNP (WRB How) (RB much)) (PP (IN of) (NP (DT an) (NN apple)))) (@SBARQ (SQ (VBZ is) (NP water)) (. ?)))"}
+{"sentence":"Who was the 22nd President of the US ?","label":"HUM","parse":"(ROOT (WHNP Who) (@SBARQ (SQ (VBD was) (NP (NP (DT the) (@NP (JJ 22nd) (NN President))) (PP (IN of) (NP (DT the) (NNP US))))) (. ?)))"}
+{"sentence":"What is the money they use in Zambia ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN money)) (SBAR (NP they) (VP (VBP use) (PP (IN in) (NP Zambia)))))) (. ?)))"}
+{"sentence":"How many feet in a mile ?","label":"NUM","parse":"(ROOT (WHNP (WHADJP (WRB How) (JJ many)) (NNS feet)) (@FRAG (PP (IN in) (NP (DT a) (NN mile))) (. ?)))"}
+{"sentence":"What is the birthstone of October ?","label":"ENTY","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP (NP (DT the) (NN birthstone)) (PP (IN of) (NP October)))) (. ?)))"}
+{"sentence":"What is e-coli ?","label":"DESC","parse":"(ROOT (WHNP What) (@SBARQ (SQ (VBZ is) (NP e-coli)) (. ?)))"}
