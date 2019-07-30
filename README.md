@@ -5,8 +5,7 @@ This repository contains the implementation of
 which is presented in **Dynamic Compositionality in Recursive Neural Networks with Structure-aware Tag Representations** (AAAI 2019).
 For a detailed illustration of the architecture, please refer to the [paper]((https://arxiv.org/pdf/1809.02286.pdf)).
 
-When doing following work with this code, please cite our paper with the following BibTex at this time
-(It will be changed as the proceeding comes out).
+When doing following work with this code, please cite our paper with the following BibTex.
 
 	@inproceedings{kim2019dynamic,
 	  title={Dynamic Compositionality in Recursive Neural Networks with Structure-Aware Tag Representations},
