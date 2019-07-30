@@ -8,12 +8,14 @@ For a detailed illustration of the architecture, please refer to the [paper]((ht
 When doing following work with this code, please cite our paper with the following BibTex at this time
 (It will be changed as the proceeding comes out).
 
-    @article{kim2018dynamic,
-      title={Dynamic Compositionality in Recursive Neural Networks with Structure-aware Tag Representations},
-      author={Kim, Taeuk and Choi, Jihun and Edmiston, Daniel and Bae, Sanghwan and Lee, Sang-goo},
-      journal={arXiv preprint arXiv:1809.02286},
-      year={2018}
-    }
+	@inproceedings{kim2019dynamic,
+	  title={Dynamic Compositionality in Recursive Neural Networks with Structure-Aware Tag Representations},
+	  author={Kim, Taeuk and Choi, Jihun and Edmiston, Daniel and Bae, Sanghwan and Lee, Sang-goo},
+	  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+	  volume={33},
+	  pages={6594--6601},
+	  year={2019}
+	}
 
 
 ## Experimental Results (reported in the paper)
