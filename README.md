@@ -2,10 +2,10 @@
 
 This repository contains the implementation of 
 **SATA** (**S**tructure-**A**ware **T**ag **A**ugmented) **Tree-LSTM**, 
-which is presented in **Dynamic Compositionality in Recursive Neural Networks with Structure-aware Tag Representations** (AAAI 2019).
-For a detailed illustration of the architecture, please refer to the [paper]((https://arxiv.org/pdf/1809.02286.pdf)).
+which is proposed by **Dynamic Compositionality in Recursive Neural Networks with Structure-aware Tag Representations (AAAI 2019)**.
+For a detailed illustration of the architecture, refer to our [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4628).
 
-When doing following work with this code, please cite our paper with the following BibTex.
+When utilizing this code for future work, please cite our paper with the following BibTex.
 
 	@inproceedings{kim2019dynamic,
 	  title={Dynamic Compositionality in Recursive Neural Networks with Structure-Aware Tag Representations},
@@ -16,6 +16,8 @@ When doing following work with this code, please cite our paper with the followi
 	  year={2019}
 	}
 
+
+**\[Note\]** If you need to parse your own data, refer to [the example codes](https://github.com/galsang/parser) (implemented in JAVA, resorting to the Standford parser), which were utilized to build experimental data (files located in .data) for our paper.
 
 ## Experimental Results (reported in the paper)
 
