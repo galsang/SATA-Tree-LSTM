@@ -17,7 +17,7 @@ When utilizing this code for future work, please cite our paper with the followi
 	}
 
 
-**\[NOTE\]** If you need to parse your own data, check [the example codes](https://github.com/galsang/parser) (implemented in JAVA, resorting to the Standford parser), which were utilized to build experimental data (files located in .data) for our paper.
+**\[NOTE\]** If you need to parse your own data, check [the example codes](https://github.com/galsang/parser) (implemented in JAVA, resorting to the Standford parser) which were utilized to build the experimental data (the files located in .data) for our paper.
 
 ## Experimental Results (reported in the paper)
 
