@@ -2,5 +2,5 @@ numpy==1.15.4
 nltk==3.4.5
 torch==0.4.1
 tensorboardX==1.4
-PyYAML==3.13
+PyYAML==5.1
 torchtext==0.3.1
