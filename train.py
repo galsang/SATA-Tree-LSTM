@@ -141,9 +141,9 @@ def main():
 
     set_logger(args)
     logging.info(f'Start time: {args.model_time}')
-    set_seed(args.random_seed)
     logging.info('Loading saved config from yaml...')
     args = load_config(args)
+    set_seed(args.random_seed)
     logging.info(f'Dataset: {args.dataset}')
     logging.info('Loading data...')
     args, data = load_data(args)
